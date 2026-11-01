@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Sito ufficiale di Rolando Lord Attanasio — Athanor. Pittura, arte atemporale e ultrametafisica, cinema e ricerca artistica.">
+  <meta name="theme-color" content="#0a0908">
+  <title>Rolando Lord Attanasio — Athanor | Arte senza tempo</title>
+  <style>
+    :root{--bg:#0a0908;--panel:#12100e;--gold:#c9a45b;--gold2:#f0d89a;--cream:#eee8dc;--muted:#b6ad9e;--line:rgba(201,164,91,.28);--serif:Georgia,"Times New Roman",serif;--sans:Arial,Helvetica,sans-serif}
+    *{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;background:var(--bg);color:var(--cream);font-family:var(--sans);line-height:1.6}
+    a{color:inherit;text-decoration:none} button{font:inherit}
+    .topline{height:3px;background:linear-gradient(90deg,transparent,var(--gold),var(--gold2),var(--gold),transparent)}
+    header{position:absolute;top:3px;left:0;width:100%;z-index:5;padding:24px 5vw;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid rgba(255,255,255,.09)}
+    .brand{font-family:var(--serif);font-size:1.05rem;letter-spacing:.13em;text-transform:uppercase}.brand span{display:block;color:var(--gold);font: .63rem var(--sans);letter-spacing:.25em;margin-top:3px}
+    nav{display:flex;gap:25px;font-size:.73rem;text-transform:uppercase;letter-spacing:.13em;color:#e6dfd2} nav a{transition:color .2s} nav a:hover{color:var(--gold2)}
+    .menu-btn{display:none;background:none;border:1px solid var(--line);color:var(--cream);padding:8px 12px}
+    .hero{min-height:100vh;position:relative;display:grid;grid-template-columns:1.02fr .98fr;align-items:center;padding:145px 8vw 75px;overflow:hidden;background:radial-gradient(ellipse at 76% 45%,rgba(145,100,31,.18),transparent 40%),linear-gradient(115deg,#090807 0%,#0d0b09 56%,#17120b 100%)}
+    .hero:before{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.018) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.018) 1px,transparent 1px);background-size:56px 56px;mask-image:linear-gradient(to right,transparent,#000 75%);pointer-events:none}
+    .hero-copy{position:relative;z-index:2;max-width:690px}.eyebrow{color:var(--gold);font-size:.7rem;letter-spacing:.28em;text-transform:uppercase;margin-bottom:24px}
+    h1{font:clamp(3.1rem,7vw,7.3rem)/.92 var(--serif);font-weight:400;letter-spacing:-.045em;margin:0 0 25px;text-transform:uppercase}
+    h1 span{display:block;color:var(--gold2);font-style:italic;text-transform:none;font-size:.62em;letter-spacing:.01em;margin-top:17px}
+    .hero-sub{font-size:clamp(.85rem,1.3vw,1.08rem);letter-spacing:.2em;text-transform:uppercase;color:#d8c9aa;margin:0 0 25px}
+    .manifesto{font:italic clamp(1.15rem,2vw,1.55rem)/1.45 var(--serif);max-width:470px;color:#d4ccbe;margin:0 0 35px}
+    .buttons{display:flex;flex-wrap:wrap;gap:12px}.btn{display:inline-block;padding:14px 21px;border:1px solid var(--gold);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;transition:.25s}.btn.primary{background:var(--gold);color:#100d08}.btn:hover{background:var(--gold2);border-color:var(--gold2);color:#100d08}
+    .hero-art{position:relative;min-height:530px;display:flex;align-items:center;justify-content:center}
+    .art-frame{position:relative;width:min(100%,470px);aspect-ratio:4/4.5;border:1px solid rgba(226,190,113,.55);padding:12px;transform:rotate(1.2deg);box-shadow:0 35px 100px rgba(0,0,0,.55)}
+    .artwork-placeholder{height:100%;width:100%;position:relative;overflow:hidden;background:radial-gradient(ellipse at 48% 43%,#f3d27c 0%,#b78b37 17%,#4b3216 38%,#16100a 67%,#050505 100%)}
+    .artwork-placeholder:before{content:"";position:absolute;inset:-15%;background:repeating-conic-gradient(from 10deg at 50% 48%,rgba(255,220,135,.15) 0deg,transparent 4deg,rgba(0,0,0,.14) 8deg,transparent 13deg);filter:blur(2px);animation:slowspin 80s linear infinite}
+    .artwork-placeholder:after{content:"";position:absolute;width:42%;height:68%;left:29%;top:15%;border-radius:48% 48% 36% 36%;background:linear-gradient(90deg,#1c130b 0%,#5c411d 22%,#e4bf69 48%,#6b491c 64%,#160e08 100%);clip-path:polygon(36% 0,64% 0,75% 13%,72% 29%,84% 44%,100% 66%,87% 100%,12% 100%,0 67%,19% 43%,28% 27%,25% 13%);filter:drop-shadow(0 0 22px rgba(241,195,88,.4));opacity:.95}
+    .art-label{position:absolute;left:22px;right:22px;bottom:20px;z-index:2;text-align:center;text-shadow:0 2px 12px #000}.art-label strong{display:block;font:italic 1.55rem var(--serif);color:#f6d98f}.art-label small{display:block;margin-top:6px;font-size:.57rem;letter-spacing:.19em;text-transform:uppercase;color:#eee1c4}
+    .frame-caption{position:absolute;bottom:-31px;right:5px;color:var(--gold);font-size:.6rem;letter-spacing:.22em;text-transform:uppercase}
+    @keyframes slowspin{to{transform:rotate(360deg)}}
+    .scroll-note{position:absolute;bottom:24px;left:8vw;font-size:.62rem;letter-spacing:.22em;text-transform:uppercase;color:#8c8272;display:flex;gap:14px;align-items:center}.scroll-note:before{content:"";width:42px;height:1px;background:var(--gold)}
+    section{padding:105px 8vw}.section-kicker{font-size:.68rem;letter-spacing:.25em;text-transform:uppercase;color:var(--gold);margin:0 0 18px}
+    h2{font:clamp(2.3rem,4.3vw,4.7rem)/1.04 var(--serif);font-weight:400;letter-spacing:-.025em;margin:0 0 24px}
+    .intro{max-width:720px;color:var(--muted);font-size:1.04rem}
+    .about{display:grid;grid-template-columns:.75fr 1.25fr;gap:9vw;background:#100e0c;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+    .about-mark{font:italic clamp(4rem,10vw,9rem)/.9 var(--serif);color:rgba(201,164,91,.17);align-self:center}
+    .about p{color:#c9c0b1;max-width:760px}.signature{font:italic 1.2rem var(--serif);color:var(--gold2);margin-top:25px}
+    .works-head{display:flex;justify-content:space-between;align-items:end;gap:30px;margin-bottom:38px}.works-head .intro{max-width:400px;font-size:.9rem}
+    .work-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .work-card{background:var(--panel);border:1px solid rgba(255,255,255,.08);transition:transform .3s,border-color .3s}.work-card:hover{transform:translateY(-5px);border-color:var(--line)}
+    .work-image{aspect-ratio:4/4.5;display:flex;align-items:end;padding:20px;position:relative;overflow:hidden;background:radial-gradient(ellipse at 50% 36%,#a98442,#3a2818 43%,#0b0907 78%)}
+    .work-image:before{content:"";position:absolute;inset:0;background:linear-gradient(140deg,transparent 30%,rgba(0,0,0,.6)),repeating-linear-gradient(25deg,transparent 0 13px,rgba(255,255,255,.025) 14px 15px)}
+    .work-image.blue{background:radial-gradient(ellipse at 50% 45%,#4d89a4,#172d42 44%,#080d14 80%)}
+    .work-image.red{background:radial-gradient(ellipse at 45% 40%,#c04c2c,#5c1715 45%,#100807 80%)}
+    .work-image.earth{background:radial-gradient(ellipse at 45% 40%,#a88b62,#4b3927 45%,#100d09 80%)}
+    .work-image span{position:relative;z-index:1;color:#fff0cb;font:italic 1.3rem var(--serif)}
+    .work-meta{padding:20px 20px 23px}.work-meta h3{font:1.35rem var(--serif);font-weight:400;margin:0 0 7px}.work-meta p{color:#a69b8a;font-size:.76rem;margin:0;letter-spacing:.06em}
+    .manifesto-section{background:#17120b;position:relative;overflow:hidden;text-align:center}.manifesto-section:before{content:"A";position:absolute;left:50%;top:50%;transform:translate(-50%,-52%);font:45rem/.8 var(--serif);color:rgba(201,164,91,.035);pointer-events:none}
+    .manifesto-inner{position:relative;max-width:920px;margin:auto}.manifesto-inner blockquote{font:italic clamp(1.8rem,4vw,3.8rem)/1.25 var(--serif);margin:20px 0 28px;color:#f0e5cf}.manifesto-inner p{color:#aa9b82;max-width:610px;margin:0 auto}
+    .areas{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:38px}.area{background:var(--bg);padding:28px 25px;min-height:190px}.area .number{color:var(--gold);font:italic 1.3rem var(--serif)}.area h3{font:1.5rem var(--serif);font-weight:400;margin:15px 0 8px}.area p{color:var(--muted);font-size:.88rem;margin:0}
+    .events{background:#100e0c}.event-row{display:grid;grid-template-columns:180px 1fr;gap:30px;padding:25px 0;border-top:1px solid var(--line)}.event-date{color:var(--gold);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase}.event-row h3{font:1.55rem var(--serif);font-weight:400;margin:0 0 5px}.event-row p{margin:0;color:var(--muted);font-size:.9rem}
+    .contact{display:grid;grid-template-columns:1fr 1fr;gap:8vw;align-items:center}.contact-box{border:1px solid var(--line);padding:35px}.contact-box p{color:var(--muted)}.contact-box a{color:var(--gold2);border-bottom:1px solid var(--line);padding-bottom:3px}
+    footer{padding:25px 8vw;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:20px;color:#81796d;font-size:.68rem;letter-spacing:.08em;text-transform:uppercase}
+    .note{font-size:.72rem;color:#8c8170;margin-top:18px}
+    @media(max-width:850px){header{padding:18px 5vw}.menu-btn{display:block}nav{display:none;position:absolute;top:100%;left:0;right:0;padding:20px 5vw;background:#0b0908;border-bottom:1px solid var(--line);flex-direction:column;gap:17px}nav.open{display:flex}.hero{grid-template-columns:1fr;padding:145px 7vw 80px}.hero-art{min-height:420px;margin-top:25px}.art-frame{width:min(83%,410px)}.scroll-note{left:7vw}.about{grid-template-columns:1fr;gap:10px}.about-mark{font-size:4rem}.work-grid{grid-template-columns:repeat(2,1fr)}.works-head{display:block}.areas{grid-template-columns:1fr}.area{min-height:auto}.contact{grid-template-columns:1fr}section{padding:75px 7vw}}
+    @media(max-width:540px){.brand{font-size:.86rem}h1{font-size:3.25rem}.hero-art{min-height:350px}.work-grid{grid-template-columns:1fr}.work-image{aspect-ratio:5/4}.event-row{grid-template-columns:1fr;gap:7px}footer{flex-direction:column}section{padding:65px 6vw}.contact-box{padding:24px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
+  
+    .home-photo-frame{width:min(100%,600px);aspect-ratio:3/2;padding:10px;border:1px solid rgba(226,190,113,.65);background:#100d08;box-shadow:0 35px 100px rgba(0,0,0,.55)}
+    .home-portrait{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
+    .work-card{overflow:hidden}
+    .work-image.real-image{height:auto;aspect-ratio:1/1;background:#080706;padding:10px;display:flex;align-items:center;justify-content:center}
+    .work-image.real-image img{width:100%;height:100%;object-fit:contain;display:block}
+    .gallery-cta{margin-top:28px;text-align:center}
+    .gallery-cta .btn{display:inline-block}
+
+  </style>
+</head>
+<body>
+  <div class="topline"></div>
+  <header>
+    <a class="brand" href="#home">Rolando Lord Attanasio<span>Athanor · Arte senza tempo</span></a>
+    <button class="menu-btn" aria-label="Apri menu" aria-expanded="false" id="menuBtn">Menu ☰</button>
+    <nav id="nav">
+      <a href="#opere">Opere</a><a href="museo.html">Museo atemporale</a><a href="#ricerca">Ricerca</a><a href="#cinema">Cinema</a><a href="#mostre">Mostre</a><a href="#biografia">Biografia</a><a href="#contatti">Contatti</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-copy">
+        <p class="eyebrow">Pittura · Filosofia · Cinema</p>
+        <h1>Rolando<span>Lord Attanasio</span></h1>
+        <p class="hero-sub">Athanor — Arte Atemporale e Ultrametafisica</p>
+        <p class="manifesto">«L'arte non appartiene al tempo. Il tempo attraversa l'arte.»</p>
+        <div class="buttons"><a class="btn primary" href="#opere">Esplora le opere</a><a class="btn" href="#ricerca">La ricerca artistica</a></div>
+      </div>
+      <div class="hero-art" aria-label="Rolando Lord Attanasio davanti alla Home Gallery 1905">
+        <div class="art-frame home-photo-frame"><img class="home-portrait" src="assets/rolando-home.jpg" alt="Rolando Lord Attanasio davanti alla Home Gallery 1905"></div>
+        <div class="frame-caption">Rolando Lord Attanasio · Athanor · Home Gallery 1905</div>
+      </div>
+      <div class="scroll-note">Scorri per entrare nell'opera</div>
+    </section>
+
+    <section class="about" id="biografia">
+      <div class="about-mark">Athanor</div>
+      <div>
+        <p class="section-kicker">L'artista</p>
+        <h2>Una ricerca<br><em>fuori dal tempo.</em></h2>
+        <p>Rolando Lord Attanasio — Athanor — sviluppa una ricerca artistica che mette in dialogo pittura, materia, memoria e immaginazione. La sua poetica dell'arte atemporale attraversa immagini, simboli e paesaggi interiori, cercando uno spazio in cui passato, presente e futuro possano coesistere.</p>
+        <p>La pittura diventa laboratorio di trasformazione: terra, cenere, pigmenti, luce e colore si fanno strumenti per interrogare la realtà e aprire possibilità visionarie. Accanto alle opere pittoriche, la ricerca si estende alla scrittura, al cinema sperimentale e al metateatro dell'assurdo.</p>
+        <div class="signature">L'opera come soglia, l'artista come ricercatore.</div>
+      </div>
+    </section>
+
+    <section id="opere">
+      <div class="works-head">
+        <div><p class="section-kicker">Archivio visivo</p><h2>Opere scelte</h2></div>
+        <p class="intro">Una selezione dalla ricerca pittorica di Athanor. Entra nella galleria per osservare le opere e ingrandirne i dettagli.</p>
+      </div>
+      <div class="work-grid">
+        <article class="work-card"><div class="work-image"><span>Purple Gold Man</span></div><div class="work-meta"><h3>Purple Gold Man</h3><p>Olio e oro su tela · 70 × 80 cm</p></div></article>
+        <article class="work-card"><div class="work-image real-image"><img src="assets/opera-3.jpg" alt="Blu Ultrametafisico"></div><div class="work-meta"><h3>Blu Ultrametafisico</h3><p>Olio su tela · 100 × 100 cm · 2000</p></div></article>
+        <article class="work-card"><div class="work-image real-image"><img src="assets/opera-1.jpg" alt="Rosso 400 a.C. Pompei"></div><div class="work-meta"><h3>Rosso 400 a.C. Pompei</h3><p>Olio su tela · 100 × 100 cm</p></div></article>
+        <article class="work-card"><div class="work-image earth"><span>Montagna Vallatrone</span></div><div class="work-meta"><h3>Montagna Vallatrone 1515</h3><p>Terra, argilla, pietra, lavanda e radici · 90 × 90 cm</p></div></article>
+        <article class="work-card"><div class="work-image real-image"><img src="assets/opera-2.jpg" alt="Donna Vesuviana"></div><div class="work-meta"><h3>Donna Vesuviana</h3><p>Olio su tela · 100 × 100 cm</p></div></article>
+        <article class="work-card"><div class="work-image blue"><span>Blu inconscio</span></div><div class="work-meta"><h3>Blu inconscio</h3><p>Olio su tela · 100 × 100 cm · 2000</p></div></article>
+      </div>
+      <div class="gallery-cta"><a class="btn primary" href="galleria.html">Visita la galleria completa e usa lo zoom</a></div>
+    </section>
+
+    <section class="manifesto-section" id="ricerca">
+      <div class="manifesto-inner">
+        <p class="section-kicker">Poetica e pensiero</p>
+        <h2>L'arte senza tempo</h2>
+        <blockquote>«Fuori dalla gabbia del tempo, l'opera continua a divenire.»</blockquote>
+        <p>L'arte atemporale non è fuga dalla storia, ma un modo di attraversarla senza restarne prigionieri. La materia custodisce tracce, la pittura apre varchi, l'immagine diventa luogo d'incontro tra memoria e possibilità.</p>
+      </div>
+    </section>
+
+    <section id="cinema">
+      <p class="section-kicker">Oltre la tela</p><h2>Cinema e videoarte</h2>
+      <p class="intro">La ricerca di Athanor si spinge verso il linguaggio cinematografico, la sperimentazione video e il metateatro dell'assurdo. Corpi, oggetti e immagini quotidiane possono diventare presenze enigmatiche, mentre la narrazione si apre al paradosso e alla sospensione del tempo.</p>
+      <div class="areas">
+        <article class="area"><span class="number">01</span><h3>Videoarte</h3><p>Immagini in movimento, colore, simboli e trasformazioni visive.</p></article>
+        <article class="area"><span class="number">02</span><h3>Metateatro dell'assurdo</h3><p>Personaggi e oggetti mettono in crisi le convenzioni della comunicazione.</p></article>
+        <article class="area"><span class="number">03</span><h3>Progetti cinematografici</h3><p>Storie sospese tra memoria, paesaggio, apparizioni e tempo circolare.</p></article>
+      </div>
+    </section>
+
+    <section class="events" id="mostre">
+      <p class="section-kicker">Percorso espositivo</p><h2>Mostre e incontri</h2>
+      <div class="event-row"><div class="event-date">Ottobre 2026</div><div><h3>Dentro l'Oro — Prima Biennale Internazionale d'Arte Contemporanea</h3><p>Castello Colonna, Genazzano. Un progetto espositivo dedicato alle possibilità della materia e alla luce come promessa.</p></div></div>
+      <div class="event-row"><div class="event-date">Aprile – Maggio 2026</div><div><h3>Dentro il Rosso</h3><p>Biennale Internazionale e Premio della Critica, Casina Vanvitelliana, Bacoli.</p></div></div>
+      <p class="note">Per aggiornare date, sedi e informazioni sulle prossime mostre, aggiungere qui i dettagli confermati.</p>
+    </section>
+
+    <section class="contact" id="contatti">
+      <div><p class="section-kicker">In contatto</p><h2>Ogni opera<br>apre una soglia.</h2><p class="intro">Per informazioni sulle opere, mostre, collaborazioni culturali e progetti audiovisivi.</p></div>
+      <div class="contact-box"><h3 style="font:1.6rem var(--serif);font-weight:400;margin-top:0">Rolando Lord Attanasio — Athanor</h3><p>Artista · Pittura · Arte atemporale · Cinema</p><p>Per ora, contatto e-mail da inserire.</p><a href="mailto:">Aggiungi il tuo indirizzo e-mail</a><p class="note">Prima della pubblicazione, sostituire questo collegamento con l'indirizzo e-mail corretto e aggiungere eventuali profili social ufficiali.</p></div>
+    </section>
+  </main>
+  <footer><span>© <span id="year"></span> Rolando Lord Attanasio — Athanor</span><span>Arte Atemporale e Ultrametafisica</span></footer>
+  <script>
+    const menuBtn=document.getElementById('menuBtn'), nav=document.getElementById('nav');
+    menuBtn.addEventListener('click',()=>{const open=nav.classList.toggle('open');menuBtn.setAttribute('aria-expanded',open?'true':'false')});
+    nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{nav.classList.remove('open');menuBtn.setAttribute('aria-expanded','false')}));
+    document.getElementById('year').textContent=new Date().getFullYear();
+  </script>
+</body>
+</html>
