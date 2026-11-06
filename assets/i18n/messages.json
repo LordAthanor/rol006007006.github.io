@@ -1,0 +1,2249 @@
+{
+  "nav.home": [
+    "Home",
+    "Accueil",
+    "Inicio",
+    "Start",
+    "首页"
+  ],
+  "nav.works": [
+    "Works",
+    "Œuvres",
+    "Obras",
+    "Werke",
+    "作品"
+  ],
+  "nav.gallery": [
+    "Gallery",
+    "Galerie",
+    "Galería",
+    "Galerie",
+    "画廊"
+  ],
+  "nav.museum": [
+    "Museum",
+    "Musée",
+    "Museo",
+    "Museum",
+    "博物馆"
+  ],
+  "nav.antares": [
+    "Antares",
+    "Antarès",
+    "Antares",
+    "Antares",
+    "心宿二"
+  ],
+  "nav.thought": [
+    "Thought",
+    "Pensée",
+    "Pensamiento",
+    "Gedanken",
+    "思想"
+  ],
+  "nav.explore": [
+    "Explore",
+    "Explorer",
+    "Explorar",
+    "Entdecken",
+    "探索"
+  ],
+  "nav.library": [
+    "Library",
+    "Bibliothèque",
+    "Biblioteca",
+    "Bibliothek",
+    "图书馆"
+  ],
+  "nav.arts": [
+    "Poetry · Cinema · Theatre",
+    "Poésie · Cinéma · Théâtre",
+    "Poesía · Cine · Teatro",
+    "Poesie · Kino · Theater",
+    "诗歌 · 电影 · 戏剧"
+  ],
+  "nav.oracle": [
+    "Oracle",
+    "Oracle",
+    "Oráculo",
+    "Orakel",
+    "神谕"
+  ],
+  "nav.diary": [
+    "Diary & Social",
+    "Journal & réseaux",
+    "Diario y redes",
+    "Tagebuch & Social",
+    "日志与社交"
+  ],
+  "nav.label": [
+    "Main navigation",
+    "Navigation principale",
+    "Navegación principal",
+    "Hauptnavigation",
+    "主导航"
+  ],
+  "nav.language": [
+    "Language",
+    "Langue",
+    "Idioma",
+    "Sprache",
+    "语言"
+  ],
+  "nav.menu": [
+    "Menu",
+    "Menu",
+    "Menú",
+    "Menü",
+    "菜单"
+  ],
+  "nav.menu.open": [
+    "Open navigation menu",
+    "Ouvrir le menu",
+    "Abrir el menú",
+    "Menü öffnen",
+    "打开导航菜单"
+  ],
+  "nav.brand.alt": [
+    "Lord Athanor — back to the beginning",
+    "Lord Athanor — retour au début",
+    "Lord Athanor — volver al inicio",
+    "Lord Athanor — zum Anfang",
+    "Lord Athanor — 返回首页"
+  ],
+  "footer.home": [
+    "Home",
+    "Accueil",
+    "Inicio",
+    "Start",
+    "首页"
+  ],
+  "footer.signature": [
+    "Timeless and Ultrametaphysical Art",
+    "Art intemporel et ultramétaphysique",
+    "Arte atemporal y ultrametafísico",
+    "Zeitlose und ultrametaphysische Kunst",
+    "超时间与超形而上艺术"
+  ],
+  "footer.top": [
+    "Back to top ↑",
+    "Retour en haut ↑",
+    "Volver arriba ↑",
+    "Nach oben ↑",
+    "返回顶部 ↑"
+  ],
+  "home.meta.title": [
+    "Lord Athanor — The Art Beyond Time",
+    "Lord Athanor — L’art au-delà du temps",
+    "Lord Athanor — El arte más allá del tiempo",
+    "Lord Athanor — Kunst jenseits der Zeit",
+    "Lord Athanor — 超越时间的艺术"
+  ],
+  "home.meta.description": [
+    "A timeless artistic universe of painting, thought, cinema and poetry by Rolando Lord Attanasio.",
+    "Un univers artistique intemporel de peinture, de pensée, de cinéma et de poésie.",
+    "Un universo artístico atemporal de pintura, pensamiento, cine y poesía.",
+    "Ein zeitloses künstlerisches Universum aus Malerei, Denken, Kino und Poesie.",
+    "一个由绘画、思想、电影与诗歌构成的超时间艺术宇宙。"
+  ],
+  "home.kicker": [
+    "LORD ATHANOR · A UNIVERSE BEYOND TIME",
+    "LORD ATHANOR · UN UNIVERS HORS DU TEMPS",
+    "LORD ATHANOR · UN UNIVERSO FUERA DEL TIEMPO",
+    "LORD ATHANOR · EIN UNIVERSUM AUSSERHALB DER ZEIT",
+    "LORD ATHANOR · 时间之外的宇宙"
+  ],
+  "home.title": [
+    "Lord",
+    "Lord",
+    "Lord",
+    "Lord",
+    "Lord"
+  ],
+  "home.title2": [
+    "Athanor",
+    "Athanor",
+    "Athanor",
+    "Athanor",
+    "Athanor"
+  ],
+  "home.subtitle": [
+    "Rolando Lord Attanasio · Timeless and ultrametaphysical art",
+    "Rolando Lord Attanasio · Art intemporel et ultramétaphysique",
+    "Rolando Lord Attanasio · Arte atemporal y ultrametafísico",
+    "Rolando Lord Attanasio · Zeitlose und ultrametaphysische Kunst",
+    "Rolando Lord Attanasio · 超时间与超形而上艺术"
+  ],
+  "home.quote": [
+    "Art does not belong to time. Time passes through art.",
+    "L’art n’appartient pas au temps. Le temps traverse l’art.",
+    "El arte no pertenece al tiempo. El tiempo atraviesa el arte.",
+    "Kunst gehört nicht der Zeit. Die Zeit durchquert die Kunst.",
+    "艺术不属于时间，时间穿越艺术。"
+  ],
+  "home.enter": [
+    "Enter the portal",
+    "Franchir le portail",
+    "Atravesar el portal",
+    "Das Portal durchschreiten",
+    "穿越门户"
+  ],
+  "home.works": [
+    "Explore the works",
+    "Explorer les œuvres",
+    "Explorar las obras",
+    "Werke entdecken",
+    "探索作品"
+  ],
+  "home.portrait": [
+    "Rolando Lord Attanasio · Athanor",
+    "Rolando Lord Attanasio · Athanor",
+    "Rolando Lord Attanasio · Athanor",
+    "Rolando Lord Attanasio · Athanor",
+    "Rolando Lord Attanasio · Athanor"
+  ],
+  "home.portrait.alt": [
+    "Rolando Lord Attanasio in front of Home Gallery 1905",
+    "Rolando Lord Attanasio devant la Home Gallery 1905",
+    "Rolando Lord Attanasio ante Home Gallery 1905",
+    "Rolando Lord Attanasio vor der Home Gallery 1905",
+    "Rolando Lord Attanasio 在 Home Gallery 1905 前"
+  ],
+  "map.kicker": [
+    "Thresholds of the universe",
+    "Les seuils de l’univers",
+    "Los umbrales del universo",
+    "Schwellen des Universums",
+    "宇宙的门槛"
+  ],
+  "map.title1": [
+    "Choose your",
+    "Choisissez votre",
+    "Elige tu",
+    "Wähle deinen",
+    "选择你的"
+  ],
+  "map.title2": [
+    "point of entry.",
+    "point d’entrée.",
+    "punto de entrada.",
+    "Einstiegspunkt.",
+    "入口。"
+  ],
+  "map.intro": [
+    "Five passages into Lord Athanor’s world: images, ideas and new routes beyond time.",
+    "Cinq passages vers l’univers de Lord Athanor : images, idées et nouvelles voies hors du temps.",
+    "Cinco puertas al mundo de Lord Athanor: imágenes, pensamiento y rutas más allá del tiempo.",
+    "Fünf Wege in Lord Athanors Welt: Bilder, Gedanken und neue Routen jenseits der Zeit.",
+    "五条通往 Lord Athanor 世界的路径：图像、思想与超越时间的新航线。"
+  ],
+  "map.images": [
+    "Images",
+    "Images",
+    "Imágenes",
+    "Bilder",
+    "图像"
+  ],
+  "map.works": [
+    "The works",
+    "Les œuvres",
+    "Las obras",
+    "Die Werke",
+    "作品"
+  ],
+  "map.works.desc": [
+    "Matter, light and painterly visions. Enter Athanor’s gallery.",
+    "Matière, lumière et visions picturales. Entrez dans la galerie d’Athanor.",
+    "Materia, luz y visiones pictóricas. Entra en la galería de Athanor.",
+    "Materie, Licht und malerische Visionen. Besuche Athanors Galerie.",
+    "物质、光与绘画幻象。进入 Athanor 画廊。"
+  ],
+  "map.works.link": [
+    "Open the gallery ↗",
+    "Ouvrir la galerie ↗",
+    "Abrir la galería ↗",
+    "Galerie öffnen ↗",
+    "打开画廊 ↗"
+  ],
+  "map.constellations": [
+    "Constellations",
+    "Constellations",
+    "Constelaciones",
+    "Konstellationen",
+    "星座"
+  ],
+  "map.museum.desc": [
+    "A passage through matter, time, the unconscious, the sacred, gold and the universe.",
+    "Un parcours entre matière, temps, inconscient, sacré, or et univers.",
+    "Un recorrido por la materia, el tiempo, el inconsciente, lo sagrado, el oro y el universo.",
+    "Ein Weg durch Materie, Zeit, Unbewusstes, Sakrales, Gold und Universum.",
+    "穿行于物质、时间、无意识、神圣、黄金与宇宙。"
+  ],
+  "map.museum.link": [
+    "Enter the museum ↗",
+    "Entrer au musée ↗",
+    "Entrar al museo ↗",
+    "Museum betreten ↗",
+    "进入博物馆 ↗"
+  ],
+  "map.threshold": [
+    "Star threshold",
+    "Étoile-seuil",
+    "Estrella umbral",
+    "Sternenschwelle",
+    "星辰门槛"
+  ],
+  "map.antares.desc": [
+    "A new passage into the Lord Athanor universe.",
+    "Un nouveau passage dans l’univers de Lord Athanor.",
+    "Un nuevo pasaje al universo de Lord Athanor.",
+    "Ein neuer Zugang zu Lord Athanors Universum.",
+    "通往 Lord Athanor 宇宙的新入口。"
+  ],
+  "map.antares.link": [
+    "Discover Antares ↗",
+    "Découvrir Antarès ↗",
+    "Descubrir Antares ↗",
+    "Antares entdecken ↗",
+    "探索心宿二 ↗"
+  ],
+  "map.vision": [
+    "Vision",
+    "Vision",
+    "Visión",
+    "Vision",
+    "愿景"
+  ],
+  "map.thought.desc": [
+    "The artwork as a passage between memory, matter and possibility.",
+    "L’œuvre comme passage entre mémoire, matière et possibilité.",
+    "La obra como umbral entre memoria, materia y posibilidad.",
+    "Das Werk als Schwelle zwischen Erinnerung, Materie und Möglichkeit.",
+    "作品是记忆、物质与可能性之间的通道。"
+  ],
+  "map.thought.link": [
+    "Explore the ideas ↓",
+    "Explorer la pensée ↓",
+    "Explorar el pensamiento ↓",
+    "Gedanken entdecken ↓",
+    "探索思想 ↓"
+  ],
+  "map.route": [
+    "Course",
+    "Route",
+    "Ruta",
+    "Kurs",
+    "航线"
+  ],
+  "map.windward.desc": [
+    "An open course toward what has yet to take shape.",
+    "Une route ouverte vers ce qui n’a pas encore de forme.",
+    "Una ruta abierta hacia lo que aún no tiene forma.",
+    "Ein offener Kurs auf das noch Ungeformte zu.",
+    "驶向尚未成形之物的开放航线。"
+  ],
+  "map.windward.link": [
+    "Follow the course ↗",
+    "Suivre la route ↗",
+    "Seguir la ruta ↗",
+    "Dem Kurs folgen ↗",
+    "沿航线前行 ↗"
+  ],
+  "about.kicker": [
+    "The artist",
+    "L’artiste",
+    "El artista",
+    "Der Künstler",
+    "艺术家"
+  ],
+  "about.title1": [
+    "An inquiry",
+    "Une recherche",
+    "Una búsqueda",
+    "Eine Suche",
+    "一场探索"
+  ],
+  "about.title2": [
+    "beyond time.",
+    "hors du temps.",
+    "fuera del tiempo.",
+    "jenseits der Zeit.",
+    "超越时间。"
+  ],
+  "about.body1": [
+    "Rolando Lord Attanasio — Athanor — develops an artistic inquiry bringing painting, matter, memory and imagination into dialogue. His timeless poetics moves through images, symbols and inner landscapes, seeking a space where past, present and future may coexist.",
+    "Rolando Lord Attanasio — Athanor — développe une recherche artistique qui met en dialogue peinture, matière, mémoire et imagination. Sa poétique intemporelle traverse images, symboles et paysages intérieurs, à la recherche d’un espace où passé, présent et futur coexistent.",
+    "Rolando Lord Attanasio — Athanor — desarrolla una investigación artística que dialoga con pintura, materia, memoria e imaginación. Su poética atemporal recorre imágenes, símbolos y paisajes interiores, buscando un espacio donde coexistan pasado, presente y futuro.",
+    "Rolando Lord Attanasio — Athanor — entwickelt eine künstlerische Forschung im Dialog von Malerei, Materie, Erinnerung und Vorstellung. Seine zeitlose Poetik durchquert Bilder, Symbole und innere Landschaften und sucht einen Raum, in dem Vergangenheit, Gegenwart und Zukunft koexistieren.",
+    "Rolando Lord Attanasio — Athanor — 开展一项让绘画、物质、记忆与想象相互对话的艺术探索。他的超时间诗学穿行于图像、符号与内在景观之间，寻找过去、现在与未来共存的空间。"
+  ],
+  "about.body2": [
+    "Painting becomes a laboratory of transformation: earth, ash, pigments, light and colour question reality and open visionary possibilities. Alongside painting, the inquiry extends to writing, experimental cinema and the metatheatre of the absurd.",
+    "La peinture devient un laboratoire de transformation : terre, cendre, pigments, lumière et couleur interrogent le réel et ouvrent des possibilités visionnaires. La recherche s’étend aussi à l’écriture, au cinéma expérimental et au métathéâtre de l’absurde.",
+    "La pintura se convierte en laboratorio de transformación: tierra, ceniza, pigmentos, luz y color interrogan la realidad y abren posibilidades visionarias. La búsqueda también se extiende a la escritura, el cine experimental y el metateatro del absurdo.",
+    "Malerei wird zum Labor der Verwandlung: Erde, Asche, Pigmente, Licht und Farbe befragen die Wirklichkeit und eröffnen visionäre Möglichkeiten. Die Forschung umfasst auch Schreiben, experimentelles Kino und das Metatheater des Absurden.",
+    "绘画成为转化的实验室：泥土、灰烬、颜料、光与色彩质询现实并开启幻象的可能。探索也延伸至写作、实验电影与荒诞元戏剧。"
+  ],
+  "about.signature": [
+    "The work as threshold, the artist as seeker.",
+    "L’œuvre comme seuil, l’artiste comme chercheur.",
+    "La obra como umbral, el artista como investigador.",
+    "Das Werk als Schwelle, der Künstler als Suchender.",
+    "作品是门槛，艺术家是探索者。"
+  ],
+  "works.kicker": [
+    "Visual archive · Selected works",
+    "Archives visuelles · Œuvres choisies",
+    "Archivo visual · Obras seleccionadas",
+    "Bildarchiv · Ausgewählte Werke",
+    "视觉档案 · 精选作品"
+  ],
+  "works.title1": [
+    "Matter, light",
+    "Matière, lumière",
+    "Materia, luz",
+    "Materie, Licht",
+    "物质与光"
+  ],
+  "works.title2": [
+    "and vision.",
+    "et vision.",
+    "y visión.",
+    "und Vision.",
+    "与幻象。"
+  ],
+  "works.intro": [
+    "A selection from Athanor’s painterly inquiry. Each work opens a threshold between memory, matter and imagination.",
+    "Une sélection de la recherche picturale d’Athanor. Chaque œuvre ouvre un seuil entre mémoire, matière et imagination.",
+    "Una selección de la investigación pictórica de Athanor. Cada obra abre un umbral entre memoria, materia e imaginación.",
+    "Eine Auswahl aus Athanors malerischer Forschung. Jedes Werk öffnet eine Schwelle zwischen Erinnerung, Materie und Vorstellung.",
+    "Athanor 绘画探索的精选。每件作品都开启记忆、物质与想象之间的门槛。"
+  ],
+  "works.meta.rosso": [
+    "Oil on canvas · 100 × 100 cm",
+    "Huile sur toile · 100 × 100 cm",
+    "Óleo sobre lienzo · 100 × 100 cm",
+    "Öl auf Leinwand · 100 × 100 cm",
+    "布面油画 · 100 × 100 厘米"
+  ],
+  "works.meta.donna": [
+    "Oil on canvas · 100 × 100 cm",
+    "Huile sur toile · 100 × 100 cm",
+    "Óleo sobre lienzo · 100 × 100 cm",
+    "Öl auf Leinwand · 100 × 100 cm",
+    "布面油画 · 100 × 100 厘米"
+  ],
+  "works.meta.blu": [
+    "Oil on canvas · 100 × 100 cm · 2000",
+    "Huile sur toile · 100 × 100 cm · 2000",
+    "Óleo sobre lienzo · 100 × 100 cm · 2000",
+    "Öl auf Leinwand · 100 × 100 cm · 2000",
+    "布面油画 · 100 × 100 厘米 · 2000"
+  ],
+  "works.meta.purple": [
+    "Oil and gold on canvas · 70 × 80 cm",
+    "Huile et or sur toile · 70 × 80 cm",
+    "Óleo y oro sobre lienzo · 70 × 80 cm",
+    "Öl und Gold auf Leinwand · 70 × 80 cm",
+    "布面油画与金箔 · 70 × 80 厘米"
+  ],
+  "works.meta.mountain": [
+    "Earth, clay, stone, lavender and roots · 90 × 90 cm",
+    "Terre, argile, pierre, lavande et racines · 90 × 90 cm",
+    "Tierra, arcilla, piedra, lavanda y raíces · 90 × 90 cm",
+    "Erde, Ton, Stein, Lavendel und Wurzeln · 90 × 90 cm",
+    "泥土、黏土、石头、薰衣草与根系 · 90 × 90 厘米"
+  ],
+  "works.meta.inconscious": [
+    "Oil on canvas · 100 × 100 cm · 2000",
+    "Huile sur toile · 100 × 100 cm · 2000",
+    "Óleo sobre lienzo · 100 × 100 cm · 2000",
+    "Öl auf Leinwand · 100 × 100 cm · 2000",
+    "布面油画 · 100 × 100 厘米 · 2000"
+  ],
+  "works.gallery": [
+    "Visit the full gallery and zoom in",
+    "Visiter la galerie complète et agrandir les œuvres",
+    "Visita la galería completa y amplía las obras",
+    "Gesamte Galerie mit Zoom ansehen",
+    "进入完整画廊并放大作品"
+  ],
+  "works.more": [
+    "More works listed",
+    "Autres œuvres citées",
+    "Otras obras citadas",
+    "Weitere aufgeführte Werke",
+    "其他作品"
+  ],
+  "works.alt.rosso": [
+    "Rosso 400 a.C. Pompei, a painting in red tones",
+    "Rosso 400 a.C. Pompei, peinture aux tons rouges",
+    "Rosso 400 a.C. Pompei, pintura en tonos rojos",
+    "Rosso 400 a.C. Pompei, Gemälde in Rottönen",
+    "《Rosso 400 a.C. Pompei》，红色调绘画"
+  ],
+  "works.alt.donna": [
+    "Donna Vesuviana, painting by Athanor",
+    "Donna Vesuviana, peinture d’Athanor",
+    "Donna Vesuviana, pintura de Athanor",
+    "Donna Vesuviana, Gemälde von Athanor",
+    "Athanor 绘画《Donna Vesuviana》"
+  ],
+  "works.alt.blu": [
+    "Blu Ultrametafisico, a painting in blue tones",
+    "Blu Ultrametafisico, peinture aux tons bleus",
+    "Blu Ultrametafisico, pintura en tonos azules",
+    "Blu Ultrametafisico, Gemälde in Blautönen",
+    "《Blu Ultrametafisico》，蓝色调绘画"
+  ],
+  "thought.kicker": [
+    "Poetics and thought",
+    "Poétique et pensée",
+    "Poética y pensamiento",
+    "Poetik und Denken",
+    "诗学与思想"
+  ],
+  "thought.title": [
+    "Art beyond time",
+    "L’art hors du temps",
+    "El arte sin tiempo",
+    "Kunst jenseits der Zeit",
+    "超越时间的艺术"
+  ],
+  "thought.quote": [
+    "Beyond time’s cage, the work keeps becoming.",
+    "Hors de la cage du temps, l’œuvre continue de devenir.",
+    "Fuera de la jaula del tiempo, la obra sigue deviniendo.",
+    "Jenseits des Zeitkäfigs wird das Werk immer weiter.",
+    "走出时间的牢笼，作品仍在生成。"
+  ],
+  "thought.body": [
+    "Timeless art is not an escape from history, but a way to pass through it without becoming its prisoner. Matter keeps traces; painting opens passages; the image brings memory and possibility together.",
+    "L’art intemporel n’est pas une fuite de l’histoire, mais une façon de la traverser sans en être prisonnier. La matière garde des traces, la peinture ouvre des passages et l’image relie mémoire et possibilité.",
+    "El arte atemporal no huye de la historia: la atraviesa sin quedar preso en ella. La materia guarda huellas, la pintura abre pasajes y la imagen reúne memoria y posibilidad.",
+    "Zeitlose Kunst flieht nicht vor der Geschichte, sondern durchquert sie, ohne ihr Gefangener zu werden. Materie bewahrt Spuren, Malerei öffnet Übergänge und Bilder verbinden Erinnerung und Möglichkeit.",
+    "超时间艺术不是逃离历史，而是穿越历史而不被囚禁。物质保存痕迹，绘画打开通道，图像让记忆与可能相遇。"
+  ],
+  "thought.material.title": [
+    "Matter",
+    "Matière",
+    "Materia",
+    "Materie",
+    "物质"
+  ],
+  "thought.material.body": [
+    "Earth, ash, stone, roots and pigments: matter as a living archive.",
+    "Terre, cendre, pierre, racines et pigments : la matière comme archive vivante.",
+    "Tierra, ceniza, piedra, raíces y pigmentos: materia como archivo vivo.",
+    "Erde, Asche, Stein, Wurzeln und Pigmente: Materie als lebendiges Archiv.",
+    "泥土、灰烬、石头、根系与颜料：物质是一座活的档案。"
+  ],
+  "thought.memory.title": [
+    "Memory and the unconscious",
+    "Mémoire et inconscient",
+    "Memoria e inconsciente",
+    "Erinnerung und Unbewusstes",
+    "记忆与无意识"
+  ],
+  "thought.memory.body": [
+    "Visions, dreams and symbols as thresholds between awareness and imagination.",
+    "Visions, rêves et symboles comme seuils entre conscience et imagination.",
+    "Visiones, sueños y símbolos como umbrales entre conciencia e imaginación.",
+    "Visionen, Träume und Symbole als Schwellen zwischen Bewusstsein und Vorstellung.",
+    "幻象、梦境与符号是意识和想象之间的门槛。"
+  ],
+  "thought.cosmos.title": [
+    "The sacred and the universe",
+    "Le sacré et l’univers",
+    "Lo sagrado y el universo",
+    "Das Sakrale und das Universum",
+    "神圣与宇宙"
+  ],
+  "thought.cosmos.body": [
+    "Light, presences and cosmic connections as a web of relations.",
+    "Lumière, présences et liens cosmiques comme réseau de relations.",
+    "Luz, presencias y conexiones cósmicas como red de relaciones.",
+    "Licht, Präsenzen und kosmische Verbindungen als Beziehungsgeflecht.",
+    "光、存在与宇宙联系交织成关系网络。"
+  ],
+  "museum.kicker": [
+    "A place to enter",
+    "Un lieu à traverser",
+    "Un lugar que atravesar",
+    "Ein Ort zum Durchschreiten",
+    "一处可进入的空间"
+  ],
+  "museum.intro": [
+    "A virtual museum where works meet through symbolic themes—matter, time, the unconscious, the sacred, gold and the universe—beyond chronology.",
+    "Un musée virtuel où les œuvres se rencontrent autour de thèmes symboliques — matière, temps, inconscient, sacré, or et univers — au-delà de la chronologie.",
+    "Un museo virtual donde las obras se encuentran en torno a temas simbólicos —materia, tiempo, inconsciente, lo sagrado, oro y universo— más allá de la cronología.",
+    "Ein virtuelles Museum, in dem Werke über symbolische Themen zusammentreffen—Materie, Zeit, Unbewusstes, Sakrales, Gold und Universum—jenseits der Chronologie.",
+    "一座虚拟博物馆，作品围绕物质、时间、无意识、神圣、黄金与宇宙等象征主题相遇，超越年代顺序。"
+  ],
+  "museum.enter": [
+    "Enter the museum ↗",
+    "Entrer au musée ↗",
+    "Entrar al museo ↗",
+    "Museum betreten ↗",
+    "进入博物馆 ↗"
+  ],
+  "events.kicker": [
+    "Exhibition path",
+    "Parcours d’exposition",
+    "Recorrido expositivo",
+    "Ausstellungsweg",
+    "展览历程"
+  ],
+  "events.title": [
+    "Exhibitions and encounters",
+    "Expositions et rencontres",
+    "Exposiciones y encuentros",
+    "Ausstellungen und Begegnungen",
+    "展览与相遇"
+  ],
+  "events.october": [
+    "October 2026",
+    "Octobre 2026",
+    "Octubre de 2026",
+    "Oktober 2026",
+    "2026年10月"
+  ],
+  "events.april": [
+    "April–May 2026",
+    "Avril–mai 2026",
+    "Abril–mayo de 2026",
+    "April–Mai 2026",
+    "2026年4月至5月"
+  ],
+  "events.gold": [
+    "Castello Colonna, Genazzano. An exhibition project devoted to the possibilities of matter and light as promise.",
+    "Castello Colonna, Genazzano. Un projet d’exposition consacré aux possibilités de la matière et à la lumière comme promesse.",
+    "Castello Colonna, Genazzano. Un proyecto expositivo dedicado a las posibilidades de la materia y la luz como promesa.",
+    "Castello Colonna, Genazzano. Ein Ausstellungsprojekt über die Möglichkeiten der Materie und Licht als Versprechen.",
+    "Castello Colonna，Genazzano。一项关于物质可能性与光之承诺的展览计划。"
+  ],
+  "events.gold.short": [
+    "Exhibition project devoted to the possibilities of matter and light as promise.",
+    "Projet d’exposition consacré aux possibilités de la matière et à la lumière comme promesse.",
+    "Proyecto expositivo dedicado a las posibilidades de la materia y la luz como promesa.",
+    "Ausstellungsprojekt über die Möglichkeiten der Materie und Licht als Versprechen.",
+    "关于物质可能性与光之承诺的展览计划。"
+  ],
+  "events.red": [
+    "International Biennale and Critics’ Prize, Casina Vanvitelliana, Bacoli.",
+    "Biennale internationale et Prix de la Critique, Casina Vanvitelliana, Bacoli.",
+    "Bienal Internacional y Premio de la Crítica, Casina Vanvitelliana, Bacoli.",
+    "Internationale Biennale und Kritikerpreis, Casina Vanvitelliana, Bacoli.",
+    "国际双年展与评论奖，Casina Vanvitelliana，Bacoli。"
+  ],
+  "events.red.world": [
+    "International Biennale and Critics’ Prize.",
+    "Biennale internationale et Prix de la Critique.",
+    "Bienal Internacional y Premio de la Crítica.",
+    "Internationale Biennale und Kritikerpreis.",
+    "国际双年展与评论奖。"
+  ],
+  "events.archive": [
+    "Archive of the 2026 exhibition path. Future dates and venues will be added when confirmed.",
+    "Archives du parcours d’exposition 2026. Les dates et lieux futurs seront ajoutés après confirmation.",
+    "Archivo del recorrido expositivo de 2026. Se añadirán fechas y sedes futuras cuando se confirmen.",
+    "Archiv des Ausstellungswegs 2026. Weitere Termine und Orte folgen nach Bestätigung.",
+    "2026年展览历程档案。未来日期与场地将在确认后添加。"
+  ],
+  "events.world": [
+    "Explore Athanor World ↗",
+    "Explorer Athanor World ↗",
+    "Explorar Athanor World ↗",
+    "Athanor World entdecken ↗",
+    "探索 Athanor World ↗"
+  ],
+  "contact.kicker": [
+    "Contact",
+    "Contact",
+    "Contacto",
+    "Kontakt",
+    "联系"
+  ],
+  "contact.title": [
+    "Every work opens a threshold.",
+    "Chaque œuvre ouvre un seuil.",
+    "Cada obra abre un umbral.",
+    "Jedes Werk öffnet eine Schwelle.",
+    "每件作品都开启一道门槛。"
+  ],
+  "contact.intro": [
+    "For enquiries about works, exhibitions, cultural collaborations and audiovisual projects.",
+    "Pour toute demande concernant les œuvres, expositions, collaborations culturelles et projets audiovisuels.",
+    "Para consultas sobre obras, exposiciones, colaboraciones culturales y proyectos audiovisuales.",
+    "Für Anfragen zu Werken, Ausstellungen, kultureller Zusammenarbeit und audiovisuellen Projekten.",
+    "作品、展览、文化合作与视听项目咨询。"
+  ],
+  "contact.name": [
+    "Rolando Lord Attanasio — Athanor",
+    "Rolando Lord Attanasio — Athanor",
+    "Rolando Lord Attanasio — Athanor",
+    "Rolando Lord Attanasio — Athanor",
+    "Rolando Lord Attanasio — Athanor"
+  ],
+  "contact.identity": [
+    "Artist · Painting · Timeless art · Cinema",
+    "Artiste · Peinture · Art intemporel · Cinéma",
+    "Artista · Pintura · Arte atemporal · Cine",
+    "Künstler · Malerei · Zeitlose Kunst · Kino",
+    "艺术家 · 绘画 · 超时间艺术 · 电影"
+  ],
+  "contact.status": [
+    "Contact details will be published here soon.",
+    "Les coordonnées seront publiées ici prochainement.",
+    "Los datos de contacto se publicarán aquí próximamente.",
+    "Kontaktdaten werden hier bald veröffentlicht.",
+    "联系方式将在此处公布。"
+  ],
+  "arts.kicker": [
+    "Beyond the canvas",
+    "Au-delà de la toile",
+    "Más allá del lienzo",
+    "Jenseits der Leinwand",
+    "超越画布"
+  ],
+  "arts.title": [
+    "Cinema and video art",
+    "Cinéma et art vidéo",
+    "Cine y videoarte",
+    "Kino und Videokunst",
+    "电影与影像艺术"
+  ],
+  "arts.intro": [
+    "Athanor’s inquiry moves into cinema, experimental video and the metatheatre of the absurd. Bodies, objects and everyday images become enigmatic presences; narrative opens onto paradox and suspended time.",
+    "La recherche d’Athanor s’étend au cinéma, à la vidéo expérimentale et au métathéâtre de l’absurde. Corps, objets et images quotidiennes deviennent des présences énigmatiques ; le récit s’ouvre au paradoxe et au temps suspendu.",
+    "La búsqueda de Athanor se extiende al cine, al vídeo experimental y al metateatro del absurdo. Cuerpos, objetos e imágenes cotidianas se vuelven presencias enigmáticas; la narración se abre a la paradoja y al tiempo suspendido.",
+    "Athanors Forschung führt zu Kino, experimentellem Video und Metatheater des Absurden. Körper, Gegenstände und Alltagsbilder werden rätselhafte Präsenzen; Erzählungen öffnen sich für Paradox und angehaltene Zeit.",
+    "Athanor 的探索延伸至电影、实验影像与荒诞元戏剧。身体、物件与日常图像化为谜一般的存在，叙事通向悖论与悬置的时间。"
+  ],
+  "arts.video": [
+    "Video art",
+    "Art vidéo",
+    "Videoarte",
+    "Videokunst",
+    "影像艺术"
+  ],
+  "arts.video.desc": [
+    "Moving images, colour, symbols and visual transformations.",
+    "Images en mouvement, couleur, symboles et transformations visuelles.",
+    "Imágenes en movimiento, color, símbolos y transformaciones visuales.",
+    "Bewegte Bilder, Farbe, Symbole und visuelle Verwandlungen.",
+    "运动图像、色彩、符号与视觉变形。"
+  ],
+  "arts.theatre": [
+    "Metatheatre of the absurd",
+    "Métathéâtre de l’absurde",
+    "Metateatro del absurdo",
+    "Metatheater des Absurden",
+    "荒诞元戏剧"
+  ],
+  "arts.theatre.desc": [
+    "Characters and objects unsettle the conventions of communication.",
+    "Personnages et objets bouleversent les conventions de la communication.",
+    "Personajes y objetos cuestionan las convenciones de la comunicación.",
+    "Figuren und Gegenstände stellen die Konventionen der Kommunikation infrage.",
+    "人物与物件动摇沟通的惯例。"
+  ],
+  "arts.film": [
+    "Film projects",
+    "Projets cinématographiques",
+    "Proyectos cinematográficos",
+    "Filmprojekte",
+    "电影项目"
+  ],
+  "arts.film.desc": [
+    "Stories suspended between memory, landscape, apparitions and circular time.",
+    "Histoires suspendues entre mémoire, paysage, apparitions et temps circulaire.",
+    "Historias suspendidas entre memoria, paisaje, apariciones y tiempo circular.",
+    "Geschichten zwischen Erinnerung, Landschaft, Erscheinungen und zyklischer Zeit.",
+    "悬置于记忆、风景、显现与循环时间之间的故事。"
+  ],
+  "arts.enter": [
+    "Open the Poetry, Cinema and Theatre environment ↗",
+    "Ouvrir l’espace Poésie, Cinéma et Théâtre ↗",
+    "Abrir el espacio Poesía, Cine y Teatro ↗",
+    "Umgebung Poesie, Kino und Theater öffnen ↗",
+    "进入诗歌、电影与戏剧空间 ↗"
+  ],
+  "arts.meta.title": [
+    "Poetry, Cinema and Theatre — Lord Athanor",
+    "Poésie, Cinéma et Théâtre — Lord Athanor",
+    "Poesía, Cine y Teatro — Lord Athanor",
+    "Poesie, Kino und Theater — Lord Athanor",
+    "诗歌、电影与戏剧 — Lord Athanor"
+  ],
+  "arts.meta.description": [
+    "Poetry, cinema, video art and the metatheatre of the absurd in Lord Athanor’s practice.",
+    "Poésie, cinéma, art vidéo et métathéâtre de l’absurde dans la recherche de Lord Athanor.",
+    "Poesía, cine, videoarte y metateatro del absurdo en la investigación de Lord Athanor.",
+    "Poesie, Kino, Videokunst und Metatheater des Absurden in Lord Athanors Forschung.",
+    "Lord Athanor 艺术探索中的诗歌、电影、影像艺术与荒诞元戏剧。"
+  ],
+  "arts.page.kicker": [
+    "Poetry · Cinema · Theatre",
+    "Poésie · Cinéma · Théâtre",
+    "Poesía · Cine · Teatro",
+    "Poesie · Kino · Theater",
+    "诗歌 · 电影 · 戏剧"
+  ],
+  "arts.page.title": [
+    "The image finds its voice.",
+    "L’image prend la parole.",
+    "La imagen encuentra su voz.",
+    "Das Bild findet seine Stimme.",
+    "图像发出声音。"
+  ],
+  "arts.page.intro": [
+    "Spaces for poetry, cinema, video art, performance and the metatheatre of the absurd.",
+    "Des espaces consacrés à la poésie, au cinéma, à l’art vidéo, à la performance et au métathéâtre de l’absurde.",
+    "Espacios para poesía, cine, videoarte, performance y metateatro del absurdo.",
+    "Räume für Poesie, Kino, Videokunst, Performance und Metatheater des Absurden.",
+    "为诗歌、电影、影像艺术、表演与荒诞元戏剧而设的空间。"
+  ],
+  "arts.environment.kicker": [
+    "Five environments",
+    "Cinq espaces",
+    "Cinco espacios",
+    "Fünf Umgebungen",
+    "五个空间"
+  ],
+  "arts.environment.title": [
+    "One scene, many thresholds",
+    "Une scène, plusieurs seuils",
+    "Una escena, muchos umbrales",
+    "Eine Szene, viele Schwellen",
+    "一方舞台，多重门槛"
+  ],
+  "arts.environment.intro": [
+    "Audiovisual materials will be linked when official sources are available. These descriptions present paths already named in the project.",
+    "Les contenus audiovisuels seront liés lorsque des sources officielles seront disponibles. Ces textes présentent les pistes déjà mentionnées dans le projet.",
+    "Los materiales audiovisuales se enlazarán cuando haya fuentes oficiales. Estas descripciones presentan líneas ya indicadas en el proyecto.",
+    "Audiovisuelle Inhalte werden verknüpft, sobald offizielle Quellen vorliegen. Die Texte stellen bereits im Projekt genannte Wege vor.",
+    "官方视听资料可用后将添加链接。此处介绍项目中已提及的艺术路径。"
+  ],
+  "arts.poetry.title": [
+    "Poetry",
+    "Poésie",
+    "Poesía",
+    "Poesie",
+    "诗歌"
+  ],
+  "arts.poetry.text": [
+    "The word as image, rhythm and inner landscape.",
+    "Le mot comme image, rythme et paysage intérieur.",
+    "La palabra como imagen, ritmo y paisaje interior.",
+    "Das Wort als Bild, Rhythmus und innere Landschaft.",
+    "文字是图像、节奏与内在景观。"
+  ],
+  "arts.cinema.title": [
+    "Cinema",
+    "Cinéma",
+    "Cine",
+    "Kino",
+    "电影"
+  ],
+  "arts.cinema.text": [
+    "Stories suspended between memory, landscape, apparitions and circular time.",
+    "Histoires suspendues entre mémoire, paysage, apparitions et temps circulaire.",
+    "Historias suspendidas entre memoria, paisaje, apariciones y tiempo circular.",
+    "Geschichten zwischen Erinnerung, Landschaft, Erscheinungen und zyklischer Zeit.",
+    "悬置于记忆、风景、显现与循环时间之间的故事。"
+  ],
+  "arts.performance.title": [
+    "Performance",
+    "Performance",
+    "Performance",
+    "Performance",
+    "行为表演"
+  ],
+  "arts.performance.text": [
+    "Bodies, objects and everyday images as enigmatic presences.",
+    "Corps, objets et images quotidiennes comme présences énigmatiques.",
+    "Cuerpos, objetos e imágenes cotidianas como presencias enigmáticas.",
+    "Körper, Gegenstände und Alltagsbilder als rätselhafte Präsenzen.",
+    "身体、物件与日常图像化为谜一般的存在。"
+  ],
+  "arts.metatheatre.title": [
+    "Metatheatre of the Absurd",
+    "Métathéâtre de l’absurde",
+    "Metateatro del absurdo",
+    "Metatheater des Absurden",
+    "荒诞元戏剧"
+  ],
+  "arts.metatheatre.text": [
+    "Characters and objects unsettle the conventions of communication.",
+    "Personnages et objets bouleversent les conventions de la communication.",
+    "Personajes y objetos cuestionan las convenciones de la comunicación.",
+    "Figuren und Gegenstände stellen Kommunikationskonventionen infrage.",
+    "人物与物件动摇沟通的惯例。"
+  ],
+  "arts.archive.title": [
+    "Audiovisual archive",
+    "Archives audiovisuelles",
+    "Archivo audiovisual",
+    "Audiovisuelles Archiv",
+    "视听档案"
+  ],
+  "arts.archive.text": [
+    "Space prepared for films, videos and performance documentation.",
+    "Espace prévu pour films, vidéos et documentation des performances.",
+    "Espacio previsto para películas, vídeos y documentación de performances.",
+    "Bereich für Filme, Videos und Performance-Dokumentation.",
+    "为影片、视频与表演资料预留的空间。"
+  ],
+  "arts.media.empty.title": [
+    "Media archive awaiting materials",
+    "Archives média en attente de contenus",
+    "Archivo multimedia a la espera de materiales",
+    "Medienarchiv wartet auf Inhalte",
+    "媒体档案等待资料"
+  ],
+  "arts.media.empty.text": [
+    "No video files or recordings are present in the repository. No audiovisual titles or content have been invented.",
+    "Aucun fichier vidéo ni enregistrement n’est présent dans le dépôt. Aucun titre ou contenu audiovisuel n’a été inventé.",
+    "El repositorio no contiene vídeos ni grabaciones. No se han inventado títulos ni contenidos audiovisuales.",
+    "Das Repository enthält keine Videos oder Aufnahmen. Audiovisuelle Titel und Inhalte wurden nicht erfunden.",
+    "仓库中没有视频或录音文件。未虚构任何视听标题或内容。"
+  ],
+  "library.meta.title": [
+    "Library — Lord Athanor",
+    "Bibliothèque — Lord Athanor",
+    "Biblioteca — Lord Athanor",
+    "Bibliothek — Lord Athanor",
+    "图书馆 — Lord Athanor"
+  ],
+  "library.meta.description": [
+    "The Library of the Timeless: Lord Athanor’s artistic thought and an editorial archive in preparation.",
+    "Bibliothèque de l’intemporel : pensée artistique de Lord Athanor et archives éditoriales en préparation.",
+    "Biblioteca de lo atemporal: pensamiento artístico de Lord Athanor y archivo editorial en preparación.",
+    "Bibliothek des Zeitlosen: Lord Athanors Kunstgedanken und ein entstehendes Publikationsarchiv.",
+    "超时间图书馆：Lord Athanor 的艺术思想与筹备中的出版档案。"
+  ],
+  "library.kicker": [
+    "Library · Thought and writing",
+    "Bibliothèque · Pensée et écriture",
+    "Biblioteca · Pensamiento y escritura",
+    "Bibliothek · Denken und Schreiben",
+    "图书馆 · 思想与写作"
+  ],
+  "library.title": [
+    "Art Beyond Time",
+    "L’Art au-delà du temps",
+    "Arte más allá del tiempo",
+    "Kunst jenseits der Zeit",
+    "超越时间的艺术"
+  ],
+  "library.intro": [
+    "A space for essays, philosophical texts and publications connected to Lord Athanor’s inquiry.",
+    "Un espace pour les essais, textes philosophiques et publications liés à la recherche de Lord Athanor.",
+    "Un espacio para ensayos, textos filosóficos y publicaciones vinculados a la investigación de Lord Athanor.",
+    "Ein Raum für Essays, philosophische Texte und Publikationen zu Lord Athanors Forschung.",
+    "为 Lord Athanor 艺术探索相关的论文、哲学文本与出版物而设的空间。"
+  ],
+  "library.foundation.kicker": [
+    "Research nucleus",
+    "Noyau de recherche",
+    "Núcleo de investigación",
+    "Forschungskern",
+    "研究核心"
+  ],
+  "library.foundation.title": [
+    "The work as threshold",
+    "L’œuvre comme seuil",
+    "La obra como umbral",
+    "Das Werk als Schwelle",
+    "作品即门槛"
+  ],
+  "library.foundation.text": [
+    "Timeless art is not an escape from history, but a way to pass through it without becoming its prisoner. Matter keeps traces; the image brings memory and possibility together.",
+    "L’art intemporel ne fuit pas l’histoire : il la traverse sans en être prisonnier. La matière garde des traces ; l’image relie mémoire et possibilité.",
+    "El arte atemporal no huye de la historia: la atraviesa sin quedar preso. La materia guarda huellas; la imagen reúne memoria y posibilidad.",
+    "Zeitlose Kunst flieht nicht vor der Geschichte, sondern durchquert sie. Materie bewahrt Spuren; Bilder verbinden Erinnerung und Möglichkeit.",
+    "超时间艺术并非逃离历史，而是穿越历史而不被囚禁。物质保存痕迹，图像让记忆与可能相遇。"
+  ],
+  "library.quote": [
+    "Beyond time’s cage, the work keeps becoming.",
+    "Hors de la cage du temps, l’œuvre continue de devenir.",
+    "Fuera de la jaula del tiempo, la obra sigue deviniendo.",
+    "Jenseits des Zeitkäfigs wird das Werk immer weiter.",
+    "走出时间的牢笼，作品仍在生成。"
+  ],
+  "library.continue": [
+    "Continue to the artistic thought ↗",
+    "Poursuivre vers la pensée artistique ↗",
+    "Continuar hacia el pensamiento artístico ↗",
+    "Weiter zu den Kunstgedanken ↗",
+    "继续阅读艺术思想 ↗"
+  ],
+  "library.archive.kicker": [
+    "Editorial archive",
+    "Archives éditoriales",
+    "Archivo editorial",
+    "Publikationsarchiv",
+    "出版档案"
+  ],
+  "library.archive.title": [
+    "Essays and publications",
+    "Essais et publications",
+    "Ensayos y publicaciones",
+    "Essays und Publikationen",
+    "论文与出版物"
+  ],
+  "library.archive.intro": [
+    "The archive will grow with verified bibliographic records and texts.",
+    "Les archives accueilleront des notices bibliographiques et des textes vérifiés.",
+    "El archivo incorporará fichas bibliográficas y textos verificados.",
+    "Das Archiv wird mit geprüften bibliografischen Angaben und Texten ergänzt.",
+    "档案将逐步收录经核实的书目资料与文本。"
+  ],
+  "library.empty.title": [
+    "Catalogue in preparation",
+    "Catalogue en préparation",
+    "Catálogo en preparación",
+    "Katalog in Vorbereitung",
+    "目录正在筹备"
+  ],
+  "library.empty.text": [
+    "The repository currently contains no books or essays with verifiable publication details. Titles, authors, publishers and dates will be added when available.",
+    "Le dépôt ne contient actuellement aucun livre ou essai avec des données éditoriales vérifiables. Titres, auteurs, éditeurs et dates seront ajoutés dès qu’ils seront disponibles.",
+    "El repositorio aún no contiene libros o ensayos con datos editoriales verificables. Se añadirán títulos, autores, editoriales y fechas cuando estén disponibles.",
+    "Das Repository enthält derzeit keine Bücher oder Essays mit überprüfbaren Publikationsdaten. Titel, Autoren, Verlage und Daten folgen, sobald sie vorliegen.",
+    "仓库目前没有具备可核实出版信息的书籍或论文。标题、作者、出版社与日期将在资料齐备后补充。"
+  ],
+  "antares.meta.description": [
+    "An artistic mythology dossier and speculative fiction by Lord Athanor.",
+    "Un dossier de mythologie artistique et de fiction spéculative de Lord Athanor.",
+    "Un dossier de mitología artística y ficción especulativa de Lord Athanor.",
+    "Ein Dossier künstlerischer Mythologie und spekulativer Fiktion von Lord Athanor.",
+    "Lord Athanor 的艺术神话档案与推想叙事。"
+  ],
+  "antares.meta.title": [
+    "Antares — The Lord Attanasio Case | Lord Athanor",
+    "Antarès — L’affaire Lord Attanasio | Lord Athanor",
+    "Antares — El caso Lord Attanasio | Lord Athanor",
+    "Antares — Der Fall Lord Attanasio | Lord Athanor",
+    "心宿二 — Lord Attanasio 案 | Lord Athanor"
+  ],
+  "antares.kicker": [
+    "Antares · A star threshold",
+    "Antarès · Une étoile-seuil",
+    "Antares · Una estrella umbral",
+    "Antares · Eine Sternenschwelle",
+    "心宿二 · 星辰门槛"
+  ],
+  "antares.title": [
+    "The distant fire",
+    "Le feu lointain",
+    "El fuego remoto",
+    "Das ferne Feuer",
+    "遥远之火"
+  ],
+  "antares.intro": [
+    "A distant light, a point of orientation in the dark. Antares opens a new threshold in Lord Athanor’s universe, inviting us to cross the unknown and follow images.",
+    "Une lumière lointaine, un repère dans la nuit. Antarès ouvre un nouveau seuil dans l’univers de Lord Athanor et invite à traverser l’inconnu en suivant les images.",
+    "Una luz lejana, un punto de orientación en la oscuridad. Antares abre un nuevo umbral en el universo de Lord Athanor e invita a cruzar lo desconocido siguiendo las imágenes.",
+    "Ein fernes Licht, ein Orientierungspunkt im Dunkel. Antares öffnet eine neue Schwelle in Lord Athanors Universum und lädt ein, dem Unbekannten durch Bilder zu folgen.",
+    "遥远的光，黑暗中的方向。心宿二在 Lord Athanor 的宇宙中开启新的门槛，邀请人穿越未知、追随图像。"
+  ],
+  "antares.enter": [
+    "Open the Antares dossier ↗",
+    "Ouvrir le dossier Antarès ↗",
+    "Abrir el dossier Antares ↗",
+    "Antares-Dossier öffnen ↗",
+    "打开心宿二档案 ↗"
+  ],
+  "antares.page.title": [
+    "Antares — The Lord Attanasio Case",
+    "Antarès — L’affaire Lord Attanasio",
+    "Antares — El caso Lord Attanasio",
+    "Antares — Der Fall Lord Attanasio",
+    "心宿二 — Lord Attanasio 案"
+  ],
+  "antares.page.lead": [
+    "A speculative story about identity, the double and the distance between an original artist and his earthly counterpart.",
+    "Un récit spéculatif sur l’identité, le double et la distance entre un artiste original et son homologue terrestre.",
+    "Un relato especulativo sobre identidad, el doble y la distancia entre un artista original y su contraparte terrestre.",
+    "Eine spekulative Erzählung über Identität, Doppelgänger und die Distanz zwischen Originalkünstler und irdischem Gegenstück.",
+    "关于身份、复制体以及原初艺术家与地球对应者之间距离的推想故事。"
+  ],
+  "antares.disclaimer": [
+    "Work of fiction and artistic mythology. The clone and the artist on Antares belong to the narrative; they are not biographical or scientific claims.",
+    "Œuvre de fiction et de mythologie artistique. Le clone et l’artiste sur Antarès appartiennent au récit ; ce ne sont pas des affirmations biographiques ou scientifiques.",
+    "Obra de ficción y mitología artística. El clon y el artista en Antares pertenecen al relato; no son afirmaciones biográficas ni científicas.",
+    "Fiktion und künstlerische Mythologie. Der Klon und der Künstler auf Antares gehören zur Erzählung; sie sind keine biografischen oder wissenschaftlichen Behauptungen.",
+    "艺术虚构与艺术神话。克隆体与心宿二上的艺术家属于叙事设定，并非传记或科学主张。"
+  ],
+  "antares.file": [
+    "Dossier 01 · Identity in transit",
+    "Dossier 01 · Identité en transit",
+    "Expediente 01 · Identidad en tránsito",
+    "Akte 01 · Identität im Übergang",
+    "档案 01 · 流动中的身份"
+  ],
+  "antares.case.title": [
+    "Two presences. One name.",
+    "Deux présences. Un seul nom.",
+    "Dos presencias. Un nombre.",
+    "Zwei Präsenzen. Ein Name.",
+    "两个存在，一个名字。"
+  ],
+  "antares.original.label": [
+    "ORIGINAL · ANTARES",
+    "ORIGINAL · ANTARÈS",
+    "ORIGINAL · ANTARES",
+    "ORIGINAL · ANTARES",
+    "原初者 · 心宿二"
+  ],
+  "antares.original.title": [
+    "The distant artist",
+    "L’artiste lointain",
+    "El artista distante",
+    "Der ferne Künstler",
+    "遥远的艺术家"
+  ],
+  "antares.original.text": [
+    "In Athanor’s mythology, the original artist dwells on Antares, observing Earth through images, matter and memory.",
+    "Dans la mythologie d’Athanor, l’artiste original réside sur Antarès et observe la Terre à travers les images, la matière et la mémoire.",
+    "En la mitología de Athanor, el artista original habita en Antares y observa la Tierra a través de imágenes, materia y memoria.",
+    "In Athanors Mythologie lebt der ursprüngliche Künstler auf Antares und betrachtet die Erde durch Bilder, Materie und Erinnerung.",
+    "在 Athanor 的艺术神话中，原初艺术家居于心宿二，通过图像、物质与记忆观察地球。"
+  ],
+  "antares.clone.label": [
+    "DOUBLE · EARTH",
+    "DOUBLE · TERRE",
+    "DOBLE · TIERRA",
+    "DOPPELGÄNGER · ERDE",
+    "复制体 · 地球"
+  ],
+  "antares.clone.title": [
+    "The operative clone",
+    "Le clone en activité",
+    "El clon operativo",
+    "Der aktive Klon",
+    "执行任务的克隆体"
+  ],
+  "antares.clone.text": [
+    "The clone operates on Earth. Its presence blurs the distinction between artwork, testimony and narrative construction.",
+    "Le clone agit sur Terre. Sa présence brouille la frontière entre œuvre, témoignage et construction narrative.",
+    "El clon opera en la Tierra. Su presencia desdibuja la frontera entre obra, testimonio y construcción narrativa.",
+    "Der Klon wirkt auf der Erde. Seine Präsenz verwischt die Grenze zwischen Werk, Zeugnis und Erzählung.",
+    "克隆体在地球上行动。它的存在模糊了作品、证词与叙事构造之间的界限。"
+  ],
+  "antares.viewer.label": [
+    "VISITOR · WITNESS",
+    "VISITEUR · TÉMOIN",
+    "VISITANTE · TESTIGO",
+    "BESUCHER · ZEUGE",
+    "访客 · 见证者"
+  ],
+  "antares.viewer.title": [
+    "The case remains open",
+    "L’affaire reste ouverte",
+    "El caso sigue abierto",
+    "Der Fall bleibt offen",
+    "案件仍未结"
+  ],
+  "antares.viewer.text": [
+    "The dossier invites visitors to follow the clues without mistaking fiction for reportage: each image may be evidence, scene or portal.",
+    "Le dossier invite à suivre les indices sans confondre fiction et reportage : chaque image peut être preuve, scène ou portail.",
+    "El dossier invita a seguir las pistas sin confundir ficción con crónica: cada imagen puede ser prueba, escena o portal.",
+    "Das Dossier lädt dazu ein, Spuren zu folgen, ohne Fiktion mit Bericht zu verwechseln: Jedes Bild kann Beweis, Szene oder Portal sein.",
+    "档案邀请观众追踪线索，但不把虚构误认为纪实：每幅图像都可能是证据、场景或门户。"
+  ],
+  "antares.biennale.kicker": [
+    "Point of collision · 2026",
+    "Point de collision · 2026",
+    "Punto de colisión · 2026",
+    "Kollisionspunkt · 2026",
+    "交汇点 · 2026"
+  ],
+  "antares.biennale.title": [
+    "Dentro l’Oro",
+    "Dentro l’Oro",
+    "Dentro l’Oro",
+    "Dentro l’Oro",
+    "Dentro l’Oro"
+  ],
+  "antares.biennale.text": [
+    "The narrative connects to the 2026 International Biennale Dentro l’Oro at Castello Colonna in Genazzano. In this dossier, the exhibition becomes an earthly threshold where the Antares myth meets Lord Athanor’s works.",
+    "Le récit se relie à la Biennale internationale Dentro l’Oro 2026 au Castello Colonna de Genazzano. Dans ce dossier, l’exposition devient un seuil terrestre où le mythe d’Antarès rencontre les œuvres de Lord Athanor.",
+    "El relato se vincula con la Bienal Internacional Dentro l’Oro 2026 en el Castello Colonna de Genazzano. En este dossier, la muestra es un umbral terrestre donde el mito de Antares encuentra las obras de Lord Athanor.",
+    "Die Erzählung verbindet sich mit der Internationalen Biennale Dentro l’Oro 2026 im Castello Colonna in Genazzano. Im Dossier wird die Ausstellung zur irdischen Schwelle, an der der Antares-Mythos Lord Athanors Werke trifft.",
+    "叙事连接至 2026 年在 Genazzano 的 Castello Colonna 举办的国际双年展 Dentro l’Oro。在档案中，展览成为地球上的门槛，让心宿二神话与 Lord Athanor 的作品相遇。"
+  ],
+  "antares.context.note": [
+    "The Biennale reference comes from the existing site. Its connection to the clone is a narrative choice in this dossier.",
+    "La référence à la Biennale reprend le site existant. Son lien avec le clone est un choix narratif propre à ce dossier.",
+    "La referencia a la Bienal procede del sitio existente. Su vínculo con el clon es una elección narrativa de este dossier.",
+    "Der Biennale-Verweis stammt aus der bestehenden Website. Die Verbindung zum Klon ist eine erzählerische Entscheidung dieses Dossiers.",
+    "双年展信息取自现有网站。它与克隆体的联系是本档案的叙事选择。"
+  ],
+  "antares.evidence.kicker": [
+    "Visual traces",
+    "Traces visuelles",
+    "Huellas visuales",
+    "Visuelle Spuren",
+    "视觉痕迹"
+  ],
+  "antares.evidence.title": [
+    "Works as clues",
+    "Les œuvres comme indices",
+    "Las obras como pistas",
+    "Werke als Hinweise",
+    "作品作为线索"
+  ],
+  "antares.evidence.text": [
+    "Three images already in the project archive enter the dossier. Titles and materials remain as provided on the site.",
+    "Trois images déjà présentes dans les archives du projet entrent dans le dossier. Les titres et matériaux restent ceux du site.",
+    "Tres imágenes ya presentes en el archivo del proyecto entran en el dossier. Se mantienen los títulos y materiales del sitio.",
+    "Drei Bilder aus dem Projektarchiv werden in das Dossier aufgenommen. Titel und Materialien bleiben wie auf der Website angegeben.",
+    "项目档案中已有的三幅图像进入本档案。作品名称与材料信息沿用网站原有内容。"
+  ],
+  "antares.red.note": [
+    "The title’s date is poetic, not historical.",
+    "La date du titre est poétique, non historique.",
+    "La fecha del título es poética, no histórica.",
+    "Die Datierung im Titel ist poetisch, nicht historisch.",
+    "标题中的年代是诗意表达，并非历史断代。"
+  ],
+  "antares.gallery": [
+    "Open the works in the gallery ↗",
+    "Voir les œuvres dans la galerie ↗",
+    "Ver las obras en la galería ↗",
+    "Werke in der Galerie ansehen ↗",
+    "在画廊中查看作品 ↗"
+  ],
+  "antares.end.kicker": [
+    "End of file · Beginning of the journey",
+    "Fin du dossier · Début du voyage",
+    "Fin del expediente · Inicio del viaje",
+    "Ende der Akte · Beginn der Reise",
+    "档案终章 · 旅程开始"
+  ],
+  "antares.end.title": [
+    "Distance is another form of presence.",
+    "La distance est une autre forme de présence.",
+    "La distancia es otra forma de presencia.",
+    "Distanz ist eine andere Form der Präsenz.",
+    "距离是存在的另一种形式。"
+  ],
+  "windward.meta.title": [
+    "Windward — Lord Athanor",
+    "Windward — Lord Athanor",
+    "Windward — Lord Athanor",
+    "Windward — Lord Athanor",
+    "Windward — Lord Athanor"
+  ],
+  "windward.meta.description": [
+    "Windward: poems by Rolando Attanasio set to music by Guglielmo Rubino.",
+    "Windward : poèmes de Rolando Attanasio mis en musique par Guglielmo Rubino.",
+    "Windward: poemas de Rolando Attanasio musicalizados por Guglielmo Rubino.",
+    "Windward: Gedichte von Rolando Attanasio, vertont von Guglielmo Rubino.",
+    "Windward：Rolando Attanasio 的诗歌，由 Guglielmo Rubino 谱曲。"
+  ],
+  "windward.kicker": [
+    "Windward · Poetry in music",
+    "Windward · Poésie en musique",
+    "Windward · Poesía en música",
+    "Windward · Poesie in Musik",
+    "Windward · 诗与音乐"
+  ],
+  "windward.lead": [
+    "Poems by Rolando Attanasio set to music by Guglielmo Rubino.",
+    "Poèmes de Rolando Attanasio mis en musique par Guglielmo Rubino.",
+    "Poemas de Rolando Attanasio musicalizados por Guglielmo Rubino.",
+    "Gedichte von Rolando Attanasio, vertont von Guglielmo Rubino.",
+    "Rolando Attanasio 的诗歌，由 Guglielmo Rubino 谱曲。"
+  ],
+  "windward.project.kicker": [
+    "A music project",
+    "Un projet musical",
+    "Un proyecto musical",
+    "Ein Musikprojekt",
+    "音乐项目"
+  ],
+  "windward.project.title": [
+    "Word, breath, sound.",
+    "Parole, souffle, son.",
+    "Palabra, aliento, sonido.",
+    "Wort, Atem, Klang.",
+    "文字、呼吸、声音。"
+  ],
+  "windward.project.text": [
+    "A space for poems by Rolando Attanasio set to music by Guglielmo Rubino. Prepared for a presentation, poems, listening, video and verified discography links.",
+    "Un espace consacré aux poèmes de Rolando Attanasio mis en musique par Guglielmo Rubino. Prévu pour une présentation, les textes, l’écoute, la vidéo et des liens discographiques vérifiés.",
+    "Un espacio para los poemas de Rolando Attanasio musicalizados por Guglielmo Rubino. Preparado para presentación, textos, escucha, vídeo y enlaces discográficos verificados.",
+    "Ein Raum für Gedichte von Rolando Attanasio, vertont von Guglielmo Rubino. Vorgesehen für Einführung, Texte, Audio, Video und geprüfte Musiklinks.",
+    "此空间呈现 Rolando Attanasio 的诗歌，由 Guglielmo Rubino 谱曲，并预留介绍、诗文、聆听、视频与经核实的音乐链接。"
+  ],
+  "windward.cover.alt": [
+    "Temporary graphic concept for Windward",
+    "Concept graphique provisoire pour Windward",
+    "Concepto gráfico provisional para Windward",
+    "Vorläufiges Grafikmotiv für Windward",
+    "Windward 临时视觉概念"
+  ],
+  "windward.cover.note": [
+    "This graphic is an interface concept, not an official record cover.",
+    "Ce graphisme est un concept d’interface, pas une pochette officielle.",
+    "Este diseño es un concepto de interfaz, no una portada discográfica oficial.",
+    "Diese Grafik ist ein Interface-Konzept, kein offizielles Plattencover.",
+    "此图形是界面概念，并非正式唱片封面。"
+  ],
+  "windward.listen.kicker": [
+    "Listening",
+    "Écoute",
+    "Escucha",
+    "Hören",
+    "聆听"
+  ],
+  "windward.listen.title": [
+    "Audio player",
+    "Lecteur audio",
+    "Reproductor de audio",
+    "Audioplayer",
+    "音频播放器"
+  ],
+  "windward.listen.intro": [
+    "The player is prepared and will be activated when authorized audio files and metadata are available.",
+    "Le lecteur est prêt et sera activé lorsque des fichiers audio autorisés et leurs métadonnées seront disponibles.",
+    "El reproductor está preparado y se activará cuando haya archivos de audio autorizados y sus metadatos.",
+    "Der Player ist vorbereitet und wird aktiviert, sobald autorisierte Audiodateien und Metadaten vorliegen.",
+    "播放器已预留，待获得授权音频文件及其元数据后启用。"
+  ],
+  "windward.audio.empty.title": [
+    "No recording connected",
+    "Aucun enregistrement associé",
+    "No hay grabaciones vinculadas",
+    "Keine Aufnahme verknüpft",
+    "尚未连接录音"
+  ],
+  "windward.audio.empty.text": [
+    "No tracks or recordings were found in the repository. No audio is simulated or played.",
+    "Aucun morceau ni enregistrement n’a été trouvé dans le dépôt. Aucun son n’est simulé ni diffusé.",
+    "No se encontraron canciones ni grabaciones en el repositorio. No se simula ni reproduce audio.",
+    "Im Repository wurden keine Titel oder Aufnahmen gefunden. Es wird kein Audio simuliert oder abgespielt.",
+    "仓库中未找到曲目或录音。不会模拟或播放任何音频。"
+  ],
+  "windward.poetry.label": [
+    "01 · TEXTS",
+    "01 · TEXTES",
+    "01 · TEXTOS",
+    "01 · TEXTE",
+    "01 · 文本"
+  ],
+  "windward.poetry.title": [
+    "Poems",
+    "Poèmes",
+    "Poemas",
+    "Gedichte",
+    "诗歌"
+  ],
+  "windward.poetry.text": [
+    "Texts will be published when the poems are available in an authorized form.",
+    "Les textes seront publiés lorsque les poèmes seront disponibles sous une forme autorisée.",
+    "Los textos se publicarán cuando los poemas estén disponibles en una forma autorizada.",
+    "Die Texte erscheinen, sobald die Gedichte in autorisierter Form vorliegen.",
+    "诗歌文本将在获得授权版本后发布。"
+  ],
+  "windward.video.label": [
+    "02 · VIDEO",
+    "02 · VIDÉO",
+    "02 · VÍDEO",
+    "02 · VIDEO",
+    "02 · 视频"
+  ],
+  "windward.video.title": [
+    "Video and images",
+    "Vidéo et images",
+    "Vídeo e imágenes",
+    "Video und Bilder",
+    "视频与图像"
+  ],
+  "windward.video.text": [
+    "Space prepared for official videos; no video files are currently included in the project.",
+    "Espace prévu pour les vidéos officielles ; aucun fichier vidéo n’est actuellement présent dans le projet.",
+    "Espacio preparado para vídeos oficiales; el proyecto no contiene archivos de vídeo por ahora.",
+    "Bereich für offizielle Videos; derzeit enthält das Projekt keine Videodateien.",
+    "为官方视频预留的空间；项目目前没有视频文件。"
+  ],
+  "windward.links.label": [
+    "03 · LISTEN",
+    "03 · ÉCOUTE",
+    "03 · ESCUCHA",
+    "03 · HÖREN",
+    "03 · 聆听"
+  ],
+  "windward.links.title": [
+    "Music links",
+    "Liens musicaux",
+    "Enlaces musicales",
+    "Musiklinks",
+    "音乐链接"
+  ],
+  "windward.links.text": [
+    "Discography links will be added after the project’s official pages are verified.",
+    "Les liens discographiques seront ajoutés après vérification des pages officielles du projet.",
+    "Los enlaces discográficos se añadirán tras verificar las páginas oficiales del proyecto.",
+    "Musiklinks folgen nach Prüfung der offiziellen Projektseiten.",
+    "核实项目官方页面后再添加音乐链接。"
+  ],
+  "oracle.meta.title": [
+    "Oracle of Athanor — Lord Athanor",
+    "Oracle d’Athanor — Lord Athanor",
+    "Oráculo de Athanor — Lord Athanor",
+    "Orakel von Athanor — Lord Athanor",
+    "Athanor 神谕 — Lord Athanor"
+  ],
+  "oracle.meta.description": [
+    "A prepared interface for a future virtual guide; not yet connected.",
+    "Une interface préparée pour un futur assistant virtuel, non connecté pour le moment.",
+    "Una interfaz preparada para un futuro asistente virtual, aún sin conexión.",
+    "Eine vorbereitete Oberfläche für einen künftigen virtuellen Begleiter, noch nicht verbunden.",
+    "为未来虚拟向导准备的界面，目前尚未连接。"
+  ],
+  "oracle.kicker": [
+    "Contemplative interface · In preparation",
+    "Interface contemplative · En préparation",
+    "Interfaz contemplativa · En preparación",
+    "Kontemplative Oberfläche · In Vorbereitung",
+    "沉思界面 · 筹备中"
+  ],
+  "oracle.title": [
+    "Oracle of Athanor",
+    "Oracle d’Athanor",
+    "Oráculo de Athanor",
+    "Orakel von Athanor",
+    "Athanor 神谕"
+  ],
+  "oracle.intro": [
+    "A space to guide visitors through the works, symbols and paths of the Athanor universe.",
+    "Un espace pour guider les visiteurs parmi les œuvres, symboles et parcours de l’univers Athanor.",
+    "Un espacio para acompañar a los visitantes por las obras, símbolos y recorridos del universo Athanor.",
+    "Ein Raum, der Besucher durch Werke, Symbole und Wege des Athanor-Universums begleitet.",
+    "引导访客穿行于 Athanor 宇宙中的作品、符号与路径。"
+  ],
+  "oracle.status": [
+    "Assistant not connected",
+    "Assistant non connecté",
+    "Asistente sin conexión",
+    "Assistent nicht verbunden",
+    "助手尚未连接"
+  ],
+  "oracle.panel.title": [
+    "The threshold is ready.",
+    "Le seuil est prêt.",
+    "El umbral está listo.",
+    "Die Schwelle ist bereit.",
+    "门槛已准备就绪。"
+  ],
+  "oracle.panel.text": [
+    "This is a visual interface scaffold. It accepts no questions and generates no answers until an AI service is connected.",
+    "Cette interface est une structure visuelle. Elle ne reçoit ni questions ni réponses avant la connexion d’un service d’IA.",
+    "Esta interfaz es solo una estructura visual. No recibe preguntas ni genera respuestas hasta conectar un servicio de IA.",
+    "Diese Oberfläche ist ein visuelles Gerüst. Ohne angeschlossenen KI-Dienst nimmt sie keine Fragen an und erzeugt keine Antworten.",
+    "这是一个视觉界面框架。连接人工智能服务之前，它不会接收问题或生成回答。"
+  ],
+  "oracle.input.placeholder": [
+    "The Oracle is not active yet",
+    "L’Oracle n’est pas encore actif",
+    "El Oráculo aún no está activo",
+    "Das Orakel ist noch nicht aktiv",
+    "神谕尚未启用"
+  ],
+  "oracle.input.label": [
+    "Inactive question field",
+    "Champ de question inactif",
+    "Campo de pregunta inactivo",
+    "Inaktives Fragenfeld",
+    "未启用的问题输入框"
+  ],
+  "oracle.button": [
+    "Send",
+    "Envoyer",
+    "Enviar",
+    "Senden",
+    "发送"
+  ],
+  "oracle.privacy": [
+    "No messages are collected or processed.",
+    "Aucun message n’est collecté ni traité.",
+    "No se recopilan ni procesan mensajes.",
+    "Es werden keine Nachrichten erfasst oder verarbeitet.",
+    "不会收集或处理消息。"
+  ],
+  "oracle.paths.kicker": [
+    "Suggested paths",
+    "Parcours suggérés",
+    "Recorridos sugeridos",
+    "Vorgeschlagene Wege",
+    "推荐路径"
+  ],
+  "oracle.paths.title": [
+    "Where would you like to begin?",
+    "Par où souhaitez-vous commencer ?",
+    "¿Por dónde quieres empezar?",
+    "Wo möchtest du beginnen?",
+    "你想从哪里开始？"
+  ],
+  "oracle.path.works": [
+    "Enter the painting gallery.",
+    "Parcourir la galerie de peinture.",
+    "Recorrer la galería de pintura.",
+    "Die Gemäldegalerie durchqueren.",
+    "进入绘画画廊。"
+  ],
+  "oracle.path.museum": [
+    "Explore the six constellations of the Timeless Museum.",
+    "Explorer les six constellations du Musée intemporel.",
+    "Explorar las seis constelaciones del Museo Atemporal.",
+    "Die sechs Konstellationen des Zeitlosen Museums entdecken.",
+    "探索超时间博物馆的六个星座。"
+  ],
+  "oracle.path.library": [
+    "Enter thought and writing.",
+    "Entrer dans la pensée et l’écriture.",
+    "Entrar en el pensamiento y la escritura.",
+    "Gedanken und Schrift entdecken.",
+    "进入思想与写作。"
+  ],
+  "world.meta.title": [
+    "Athanor World — Lord Athanor",
+    "Athanor World — Lord Athanor",
+    "Athanor World — Lord Athanor",
+    "Athanor World — Lord Athanor",
+    "Athanor World — Lord Athanor"
+  ],
+  "world.meta.description": [
+    "An international atlas of exhibitions, events, places and verified artistic activity.",
+    "Un atlas international d’expositions, événements, lieux et activités artistiques vérifiés.",
+    "Un atlas internacional de exposiciones, eventos, lugares y actividad artística verificada.",
+    "Ein internationaler Atlas bestätigter Ausstellungen, Veranstaltungen, Orte und künstlerischer Aktivitäten.",
+    "国际展览、活动、地点与经核实艺术活动的地图集。"
+  ],
+  "world.kicker": [
+    "Atlas · Exhibitions · Places · Encounters",
+    "Atlas · Expositions · Lieux · Rencontres",
+    "Atlas · Exposiciones · Lugares · Encuentros",
+    "Atlas · Ausstellungen · Orte · Begegnungen",
+    "地图集 · 展览 · 地点 · 相遇"
+  ],
+  "world.intro": [
+    "An international map for following documented exhibitions, events, places and artistic activity.",
+    "Une carte internationale pour suivre expositions, événements, lieux et activités artistiques documentés.",
+    "Un mapa internacional para seguir exposiciones, eventos, lugares y actividad artística documentados.",
+    "Eine internationale Karte für dokumentierte Ausstellungen, Veranstaltungen, Orte und künstlerische Aktivitäten.",
+    "用于追踪有据可查的展览、活动、地点与艺术实践的国际地图。"
+  ],
+  "world.map.kicker": [
+    "World map",
+    "Carte du monde",
+    "Mapa del mundo",
+    "Weltkarte",
+    "世界地图"
+  ],
+  "world.map.title": [
+    "An expanding atlas",
+    "Un atlas en expansion",
+    "Un atlas en expansión",
+    "Ein wachsender Atlas",
+    "不断扩展的地图集"
+  ],
+  "world.map.text": [
+    "The map is a visual environment in preparation. Locations appear in a verifiable list; they will not be plotted until coordinates are confirmed.",
+    "La carte est un environnement visuel en préparation. Les lieux figurent dans une liste vérifiable ; ils ne seront pas placés sans coordonnées confirmées.",
+    "El mapa es un entorno visual en preparación. Los lugares aparecen en una lista verificable y no se ubicarán hasta confirmar sus coordenadas.",
+    "Die Karte ist eine visuelle Umgebung in Vorbereitung. Orte erscheinen in einer überprüfbaren Liste und werden erst mit bestätigten Koordinaten eingezeichnet.",
+    "地图视觉环境正在准备中。地点以可核实列表呈现，坐标确认前不会绘制定位。"
+  ],
+  "world.map.alt": [
+    "Symbolic cosmic map, not to scale",
+    "Carte cosmique symbolique, non à l’échelle",
+    "Mapa cósmico simbólico, no a escala",
+    "Symbolische kosmische Karte, nicht maßstabsgetreu",
+    "象征性宇宙地图，非比例地图"
+  ],
+  "world.map.note": [
+    "The graphic is symbolic and is not a geolocated map.",
+    "Le graphisme est symbolique et ne constitue pas une carte géolocalisée.",
+    "El gráfico es simbólico y no representa un mapa geolocalizado.",
+    "Die Grafik ist symbolisch und keine geolokalisierte Karte.",
+    "图形仅为象征表达，并非地理定位地图。"
+  ],
+  "world.archive.kicker": [
+    "Event archive",
+    "Archives des événements",
+    "Archivo de eventos",
+    "Veranstaltungsarchiv",
+    "活动档案"
+  ],
+  "world.archive.title": [
+    "Exhibition path 2026",
+    "Parcours d’exposition 2026",
+    "Recorrido expositivo 2026",
+    "Ausstellungsweg 2026",
+    "2026 年展览历程"
+  ],
+  "world.archive.intro": [
+    "Events already cited on the site, preserved as a historical archive.",
+    "Événements déjà cités sur le site, conservés comme archives historiques.",
+    "Eventos ya mencionados en el sitio, conservados como archivo histórico.",
+    "Bereits auf der Website genannte Veranstaltungen, als Archiv erhalten.",
+    "保留网站已提及的活动，作为历史档案。"
+  ],
+  "world.no.future": [
+    "No confirmed future events are currently listed. New dates, venues and activities will be added after verification.",
+    "Aucun événement futur confirmé n’est actuellement répertorié. Dates, lieux et activités seront ajoutés après vérification.",
+    "No hay eventos futuros confirmados por ahora. Las nuevas fechas, sedes y actividades se añadirán tras verificarlas.",
+    "Derzeit sind keine bestätigten zukünftigen Veranstaltungen aufgeführt. Neue Termine, Orte und Aktivitäten folgen nach Prüfung.",
+    "目前没有已确认的未来活动。新日期、地点与项目将在核实后添加。"
+  ],
+  "diary.meta.title": [
+    "Diary of the Timeless — Lord Athanor",
+    "Journal de l’intemporel — Lord Athanor",
+    "Diario de lo Atemporal — Lord Athanor",
+    "Tagebuch des Zeitlosen — Lord Athanor",
+    "超时间日志 — Lord Athanor"
+  ],
+  "diary.meta.description": [
+    "Diary of the Timeless: articles, notes and official social links for Lord Athanor.",
+    "Journal de l’intemporel : articles, notes et liens sociaux officiels de Lord Athanor.",
+    "Diario de lo Atemporal: artículos, notas y enlaces sociales oficiales de Lord Athanor.",
+    "Tagebuch des Zeitlosen: Artikel, Notizen und offizielle Social-Links von Lord Athanor.",
+    "超时间日志：Lord Athanor 的文章、札记与官方社交链接。"
+  ],
+  "diary.kicker": [
+    "Diary of the Timeless",
+    "Journal de l’intemporel",
+    "Diario de lo Atemporal",
+    "Tagebuch des Zeitlosen",
+    "超时间日志"
+  ],
+  "diary.title": [
+    "Notes from the edge of time",
+    "Notes au bord du temps",
+    "Apuntes desde el borde del tiempo",
+    "Notizen am Rand der Zeit",
+    "时间边缘札记"
+  ],
+  "diary.intro": [
+    "An archive for articles, research notes, updates and voices from the Athanor world.",
+    "Un espace pour les articles, notes de recherche, actualités et voix du monde Athanor.",
+    "Un archivo de artículos, notas de investigación, novedades y voces del mundo Athanor.",
+    "Ein Archiv für Artikel, Forschungsnotizen, Neuigkeiten und Stimmen aus der Athanor-Welt.",
+    "收录文章、研究笔记、动态与 Athanor 世界声音的档案。"
+  ],
+  "diary.archive.kicker": [
+    "Diary",
+    "Journal",
+    "Diario",
+    "Tagebuch",
+    "日志"
+  ],
+  "diary.archive.title": [
+    "Articles and updates",
+    "Articles et actualités",
+    "Artículos y novedades",
+    "Artikel und Neuigkeiten",
+    "文章与动态"
+  ],
+  "diary.archive.intro": [
+    "The editorial space is ready for dated, sourced texts; no articles absent from the project have been added.",
+    "L’espace éditorial est prévu pour des textes datés et sourcés ; aucun article absent du projet n’a été ajouté.",
+    "El espacio editorial está preparado para textos fechados y documentados; no se han añadido artículos ajenos al proyecto.",
+    "Der redaktionelle Bereich ist für datierte, belegte Texte vorbereitet; fremde Artikel wurden nicht ergänzt.",
+    "编辑空间已为带日期与来源的文本预留；未添加项目中不存在的文章。"
+  ],
+  "diary.empty.title": [
+    "The diary opens with the next note",
+    "Le journal s’ouvrira à la prochaine note",
+    "El diario se abrirá con la próxima nota",
+    "Das Tagebuch beginnt mit der nächsten Notiz",
+    "日志将在下一篇札记开启"
+  ],
+  "diary.empty.text": [
+    "Articles will appear here when their texts and dates are available.",
+    "Les articles paraîtront ici lorsque leurs textes et dates seront disponibles.",
+    "Los artículos aparecerán aquí cuando estén disponibles sus textos y fechas.",
+    "Artikel erscheinen hier, sobald Texte und Daten vorliegen.",
+    "文章文本与日期齐备后将在此发布。"
+  ],
+  "diary.social.kicker": [
+    "Online presence",
+    "Présence en ligne",
+    "Presencia en línea",
+    "Online-Präsenz",
+    "线上平台"
+  ],
+  "diary.social.title": [
+    "Official social channels",
+    "Réseaux officiels",
+    "Redes oficiales",
+    "Offizielle soziale Kanäle",
+    "官方社交平台"
+  ],
+  "diary.social.intro": [
+    "Facebook and Instagram will be linked when their official addresses are provided.",
+    "Facebook et Instagram seront liés lorsque leurs adresses officielles seront fournies.",
+    "Facebook e Instagram se enlazarán cuando se faciliten sus direcciones oficiales.",
+    "Facebook und Instagram werden verknüpft, sobald die offiziellen Adressen vorliegen.",
+    "提供官方地址后再添加 Facebook 与 Instagram 链接。"
+  ],
+  "diary.social.pending": [
+    "Official profile not yet provided.",
+    "Profil officiel non indiqué.",
+    "Perfil oficial aún no indicado.",
+    "Offizielles Profil noch nicht angegeben.",
+    "尚未提供官方账号。"
+  ],
+  "shop.meta.title": [
+    "Athanor Art Shop — Lord Athanor",
+    "Athanor Art Shop — Lord Athanor",
+    "Athanor Art Shop — Lord Athanor",
+    "Athanor Art Shop — Lord Athanor",
+    "Athanor 艺术商店 — Lord Athanor"
+  ],
+  "shop.meta.description": [
+    "A prepared catalogue for original works, signed canvas prints and books, pending verified product details.",
+    "Un catalogue prévu pour œuvres originales, impressions signées sur toile et livres, en attente de données vérifiées.",
+    "Catálogo preparado para obras originales, impresiones firmadas en lienzo y libros, a la espera de datos verificados.",
+    "Vorbereiteter Katalog für Originale, signierte Leinwanddrucke und Bücher; Produktdaten stehen noch aus.",
+    "为原创作品、签名画布印刷品与书籍准备的目录，等待核实商品资料。"
+  ],
+  "shop.kicker": [
+    "Collection · Editions · Books",
+    "Collection · Éditions · Livres",
+    "Colección · Ediciones · Libros",
+    "Sammlung · Editionen · Bücher",
+    "收藏 · 版次 · 书籍"
+  ],
+  "shop.intro": [
+    "A space for original works, signed canvas prints and publications by Lord Athanor.",
+    "Un espace pour les œuvres originales, impressions signées sur toile et publications de Lord Athanor.",
+    "Un espacio para obras originales, impresiones firmadas en lienzo y publicaciones de Lord Athanor.",
+    "Ein Bereich für Originale, signierte Leinwanddrucke und Publikationen von Lord Athanor.",
+    "展示 Lord Athanor 原作、签名画布印刷品与出版物的空间。"
+  ],
+  "shop.cart.open": [
+    "Cart",
+    "Panier",
+    "Carrito",
+    "Warenkorb",
+    "购物车"
+  ],
+  "shop.catalog.kicker": [
+    "Catalogue",
+    "Catalogue",
+    "Catálogo",
+    "Katalog",
+    "目录"
+  ],
+  "shop.catalog.title": [
+    "Every work, an original.",
+    "Chaque œuvre, un original.",
+    "Cada obra, un original.",
+    "Jedes Werk ein Original.",
+    "每件作品，皆为原作。"
+  ],
+  "shop.catalog.intro": [
+    "Categories are ready for verified product details, images, certificates and prices.",
+    "Les catégories sont prêtes à recevoir fiches vérifiées, images, certificats et prix.",
+    "Las categorías están preparadas para fichas verificadas, imágenes, certificados y precios.",
+    "Kategorien sind für geprüfte Produktdaten, Bilder, Zertifikate und Preise vorbereitet.",
+    "各类别已为经核实的商品资料、图像、证书与价格预留。"
+  ],
+  "shop.originals": [
+    "Original works",
+    "Œuvres originales",
+    "Obras originales",
+    "Originalwerke",
+    "原创作品"
+  ],
+  "shop.prints": [
+    "Signed canvas prints",
+    "Impressions signées sur toile",
+    "Impresiones firmadas en lienzo",
+    "Signierte Leinwanddrucke",
+    "签名画布印刷品"
+  ],
+  "shop.books": [
+    "Books and publications",
+    "Livres et publications",
+    "Libros y publicaciones",
+    "Bücher und Publikationen",
+    "书籍与出版物"
+  ],
+  "shop.category.pending": [
+    "Catalogue in preparation.",
+    "Catalogue en préparation.",
+    "Catálogo en preparación.",
+    "Katalog in Vorbereitung.",
+    "目录筹备中。"
+  ],
+  "shop.empty.title": [
+    "No products published",
+    "Aucun produit publié",
+    "No hay productos publicados",
+    "Keine Produkte veröffentlicht",
+    "暂无已发布商品"
+  ],
+  "shop.empty.text": [
+    "No products, prices or certificates are present in the repository. The catalogue will open only with supplied and verified product records.",
+    "Le dépôt ne contient ni produits, ni prix, ni certificats. Le catalogue ne sera activé qu’avec des fiches fournies et vérifiées.",
+    "El repositorio no contiene productos, precios ni certificados. El catálogo se activará con fichas facilitadas y verificadas.",
+    "Das Repository enthält keine Produkte, Preise oder Zertifikate. Der Katalog startet erst mit gelieferten und geprüften Produktdaten.",
+    "仓库中没有商品、价格或证书。仅在获得并核实商品资料后开放目录。"
+  ],
+  "shop.secure.kicker": [
+    "Sales and security",
+    "Vente et sécurité",
+    "Venta y seguridad",
+    "Verkauf und Sicherheit",
+    "销售与安全"
+  ],
+  "shop.secure.title": [
+    "A transparent purchase",
+    "Un achat transparent",
+    "Una compra transparente",
+    "Ein transparenter Kauf",
+    "透明的购买体验"
+  ],
+  "shop.secure.text": [
+    "Cart and checkout are prepared as a structure. Payments, shipping, taxes, terms and certificates require business details and a secure payment provider before activation.",
+    "Le panier et le paiement sont prévus. Paiements, livraison, taxes, conditions et certificats nécessitent des informations commerciales et un prestataire sécurisé avant activation.",
+    "El carrito y el pago están preparados. Para activarlos hacen falta datos comerciales, proveedor seguro, envíos, impuestos, condiciones y certificados.",
+    "Warenkorb und Checkout sind vorbereitet. Vor der Aktivierung braucht es Geschäftsdaten, Zahlungsanbieter, Versand, Steuern, Bedingungen und Zertifikate.",
+    "购物车与结账结构已准备。启用前需补齐商业信息、安全支付服务、配送、税费、条款与证书。"
+  ],
+  "shop.checkout.disabled": [
+    "Checkout unavailable",
+    "Paiement indisponible",
+    "Pago no disponible",
+    "Kasse nicht verfügbar",
+    "结账尚不可用"
+  ],
+  "museum.meta.title": [
+    "Timeless Museum — Lord Athanor",
+    "Musée intemporel — Lord Athanor",
+    "Museo Atemporal — Lord Athanor",
+    "Museum des Zeitlosen — Lord Athanor",
+    "超时间博物馆 — Lord Athanor"
+  ],
+  "museum.meta.description": [
+    "The Timeless Museum of Lord Athanor: six symbolic paths and a selection of works.",
+    "Le Musée intemporel de Lord Athanor : six parcours symboliques et une sélection d’œuvres.",
+    "Museo Atemporal de Lord Athanor: seis recorridos simbólicos y una selección de obras.",
+    "Das Museum des Zeitlosen von Lord Athanor: sechs symbolische Wege und ausgewählte Werke.",
+    "Lord Athanor 的超时间博物馆：六条象征路径与精选作品。"
+  ],
+  "museum.page.kicker": [
+    "Athanor · Paths beyond chronology",
+    "Athanor · Parcours hors chronologie",
+    "Athanor · Recorridos sin cronología",
+    "Athanor · Wege jenseits der Chronologie",
+    "Athanor · 超越年代的路径"
+  ],
+  "museum.page.title": [
+    "The Timeless Museum",
+    "Le Musée intemporel",
+    "El Museo Atemporal",
+    "Das Museum des Zeitlosen",
+    "超时间博物馆"
+  ],
+  "museum.page.intro": [
+    "A virtual museum where works are not ordered only by year, but explored through symbolic themes: matter, memory, the unconscious, the sacred and the universe.",
+    "Un musée virtuel où les œuvres ne sont pas classées par année, mais explorées à travers des thèmes symboliques : matière, mémoire, inconscient, sacré et univers.",
+    "Un museo virtual donde las obras no se ordenan solo por año, sino mediante temas simbólicos: materia, memoria, inconsciente, lo sagrado y universo.",
+    "Ein virtuelles Museum, in dem Werke nicht nur nach Jahr geordnet, sondern durch symbolische Themen erkundet werden: Materie, Erinnerung, Unbewusstes, Sakrales und Universum.",
+    "一座虚拟博物馆，作品不只按年份排序，更通过物质、记忆、无意识、神圣与宇宙等象征主题展开。"
+  ],
+  "museum.paths.kicker": [
+    "Six constellations",
+    "Six constellations",
+    "Seis constelaciones",
+    "Sechs Konstellationen",
+    "六个星座"
+  ],
+  "museum.paths.title": [
+    "An inner map",
+    "Une carte intérieure",
+    "Un mapa interior",
+    "Eine innere Karte",
+    "一幅内在地图"
+  ],
+  "museum.material.title": [
+    "Matter",
+    "Matière",
+    "Materia",
+    "Materie",
+    "物质"
+  ],
+  "museum.material.text": [
+    "Earth, ash, stone, roots and pigments: matter as a living archive and memory of the world.",
+    "Terre, cendre, pierre, racines et pigments : la matière comme archive vivante et mémoire du monde.",
+    "Tierra, ceniza, piedra, raíces y pigmentos: la materia como archivo vivo y memoria del mundo.",
+    "Erde, Asche, Stein, Wurzeln und Pigmente: Materie als lebendiges Archiv und Gedächtnis der Welt.",
+    "泥土、灰烬、石头、根系与颜料：物质是活的档案，也是世界的记忆。"
+  ],
+  "museum.time.title": [
+    "Time",
+    "Temps",
+    "Tiempo",
+    "Zeit",
+    "时间"
+  ],
+  "museum.time.text": [
+    "Reverse becoming, simultaneity and the work that escapes a linear chronology.",
+    "Devenir inversé, simultanéité et œuvre qui échappe à la chronologie linéaire.",
+    "Devenir inverso, simultaneidad y obra que escapa a una cronología lineal.",
+    "Umgekehrtes Werden, Gleichzeitigkeit und das Werk jenseits linearer Chronologie.",
+    "逆向生成、同时性，以及脱离线性年代的作品。"
+  ],
+  "museum.unconscious.title": [
+    "The unconscious",
+    "L’inconscient",
+    "El inconsciente",
+    "Das Unbewusste",
+    "无意识"
+  ],
+  "museum.unconscious.text": [
+    "Visions, dreams, symbols and inner landscapes as thresholds between awareness and imagination.",
+    "Visions, rêves, symboles et paysages intérieurs comme seuils entre conscience et imagination.",
+    "Visiones, sueños, símbolos y paisajes interiores como umbrales entre conciencia e imaginación.",
+    "Visionen, Träume, Symbole und innere Landschaften als Schwellen zwischen Bewusstsein und Vorstellung.",
+    "幻象、梦境、符号与内在景观是意识和想象之间的门槛。"
+  ],
+  "museum.sacred.title": [
+    "The sacred",
+    "Le sacré",
+    "Lo sagrado",
+    "Das Sakrale",
+    "神圣"
+  ],
+  "museum.sacred.text": [
+    "Presences, rites, figures and popular memory: the image as a place for contemplation.",
+    "Présences, rites, figures et mémoire populaire : l’image comme lieu de contemplation.",
+    "Presencias, ritos, figuras y memoria popular: la imagen como lugar de contemplación.",
+    "Präsenzen, Riten, Figuren und Volksgedächtnis: das Bild als Ort der Betrachtung.",
+    "存在、仪式、人物与民间记忆：图像是沉思之所。"
+  ],
+  "museum.gold.title": [
+    "Gold",
+    "Or",
+    "Oro",
+    "Gold",
+    "黄金"
+  ],
+  "museum.gold.text": [
+    "Light as promise, surface as transformation and matter as possibility.",
+    "La lumière comme promesse, la surface comme transformation et la matière comme possibilité.",
+    "La luz como promesa, la superficie como transformación y la materia como posibilidad.",
+    "Licht als Versprechen, Oberfläche als Verwandlung und Materie als Möglichkeit.",
+    "光是承诺，表面是转化，物质是可能。"
+  ],
+  "museum.universe.title": [
+    "The universe",
+    "L’univers",
+    "El universo",
+    "Das Universum",
+    "宇宙"
+  ],
+  "museum.universe.text": [
+    "Connections, entanglement and cosmic imagination: the work as a web of relations.",
+    "Connexions, intrication et imagination cosmique : l’œuvre comme réseau de relations.",
+    "Conexiones, entrelazamiento e imaginación cósmica: la obra como red de relaciones.",
+    "Verbindungen, Verschränkung und kosmische Vorstellung: das Werk als Beziehungsnetz.",
+    "联系、纠缠与宇宙想象：作品是一张关系之网。"
+  ],
+  "museum.collection.kicker": [
+    "Visual archive",
+    "Archives visuelles",
+    "Archivo visual",
+    "Bildarchiv",
+    "视觉档案"
+  ],
+  "museum.collection.title": [
+    "Works to explore",
+    "Œuvres à parcourir",
+    "Obras por recorrer",
+    "Werke zum Entdecken",
+    "探索作品"
+  ],
+  "museum.collection.intro": [
+    "A selection from images available in the project archive. Select a work to view its details.",
+    "Une sélection d’images disponibles dans les archives du projet. Choisissez une œuvre pour en voir les détails.",
+    "Una selección de imágenes disponibles en el archivo del proyecto. Selecciona una obra para ver sus detalles.",
+    "Eine Auswahl verfügbarer Bilder aus dem Projektarchiv. Wähle ein Werk für Details.",
+    "精选项目档案中的作品图像。选择作品查看细节。"
+  ],
+  "museum.zoom": [
+    "Open enlargement",
+    "Agrandir l’œuvre",
+    "Ampliar obra",
+    "Vergrößern",
+    "放大作品"
+  ],
+  "museum.art.rosso": [
+    "Matter, fire and time collapse into one instant. The date “400 BC” is poetic, not historical.",
+    "Matière, feu et temps se condensent en un instant. La date « 400 av. J.-C. » est poétique, non historique.",
+    "Materia, fuego y tiempo colapsan en un instante. La fecha «400 a. C.» es poética, no histórica.",
+    "Materie, Feuer und Zeit fallen in einem Augenblick zusammen. „400 v. Chr.“ ist poetisch, nicht historisch.",
+    "物质、火与时间凝结于一瞬。“公元前400年”是诗意表达，并非历史断代。"
+  ],
+  "museum.art.donna.meta": [
+    "Oil and palpitations on canvas · 100 × 100 cm + 40 cm for invisible sides",
+    "Huile et palpitations sur toile · 100 × 100 cm + 40 cm pour les côtés invisibles",
+    "Óleo y palpitaciones sobre lienzo · 100 × 100 cm + 40 cm para los lados invisibles",
+    "Öl und Palpitationen auf Leinwand · 100 × 100 cm + 40 cm für unsichtbare Seiten",
+    "布面油画与悸动 · 100 × 100 厘米 + 隐形边侧各 40 厘米"
+  ],
+  "museum.art.donna": [
+    "An archetypal figure immersed in red, volcanic matter, in the work’s timeless narrative.",
+    "Une figure archétypale plongée dans une matière rouge et volcanique, au sein du récit intemporel de l’œuvre.",
+    "Una figura arquetípica inmersa en materia roja y volcánica, dentro del relato atemporal de la obra.",
+    "Eine archetypische Figur in roter, vulkanischer Materie, eingebettet in die zeitlose Erzählung des Werks.",
+    "一个原型人物沉浸在红色火山物质中，置身作品的超时间叙事。"
+  ],
+  "museum.art.blue": [
+    "A visionary landscape where impossible architecture and organic patterns dissolve into deep blue.",
+    "Un paysage visionnaire où architectures impossibles et trames organiques se dissolvent dans le bleu profond.",
+    "Un paisaje visionario donde arquitecturas imposibles y tramas orgánicas se disuelven en el azul profundo.",
+    "Eine visionäre Landschaft, in der unmögliche Architektur und organische Muster im tiefen Blau verschwinden.",
+    "一幅幻象景观：不可能的建筑与有机纹理消融于深蓝之中。"
+  ],
+  "museum.archive.note": [
+    "Archive in progress. Entries distinguish source material from editorial readings.",
+    "Archives en cours. Les notices distinguent les sources des lectures éditoriales.",
+    "Archivo en expansión. Las fichas distinguen fuentes de lecturas editoriales.",
+    "Archiv im Aufbau. Einträge unterscheiden Quellenmaterial von redaktionellen Lesarten.",
+    "档案持续扩充。条目区分项目资料与编辑性解读。"
+  ],
+  "museum.gallery": [
+    "Open the full gallery ↗",
+    "Ouvrir la galerie complète ↗",
+    "Abrir la galería completa ↗",
+    "Gesamte Galerie öffnen ↗",
+    "打开完整画廊 ↗"
+  ],
+  "museum.close": [
+    "Close ✕",
+    "Fermer ✕",
+    "Cerrar ✕",
+    "Schließen ✕",
+    "关闭 ✕"
+  ],
+  "gallery.title": [
+    "Rolando Lord Attanasio",
+    "Rolando Lord Attanasio",
+    "Rolando Lord Attanasio",
+    "Rolando Lord Attanasio",
+    "Rolando Lord Attanasio"
+  ],
+  "gallery.rosso.text": [
+    "An atemporal painting where matter, fire and time collapse into one instant. Spires rise from Vesuvius’s incandescent depths: red becomes the earth’s heat, memory and a principle of transmutation. The date “400 BC” is poetic, not historical.",
+    "Une peinture intemporelle où matière, feu et temps se condensent en un instant. Les flèches émergent des entrailles incandescentes du Vésuve : le rouge devient chaleur terrestre, mémoire et principe de transmutation. La date « 400 av. J.-C. » est poétique, non historique.",
+    "Una pintura atemporal donde materia, fuego y tiempo colapsan en un instante. Las agujas surgen de las entrañas incandescentes del Vesubio: el rojo es calor terrestre, memoria y principio de transmutación. «400 a. C.» es una fecha poética, no histórica.",
+    "Ein zeitloses Gemälde, in dem Materie, Feuer und Zeit in einem Augenblick zusammenfallen. Spitzen steigen aus Vesuvs glühenden Tiefen: Rot wird Erd hitze, Erinnerung und Prinzip der Wandlung. „400 v. Chr.“ ist poetisch, nicht historisch.",
+    "一幅超时间绘画，物质、火与时间凝结于一瞬。尖塔从维苏威火山炽热深处升起：红色成为大地的热、记忆与转化原则。“公元前400年”是诗意表达，并非历史年代。"
+  ],
+  "gallery.donna.text": [
+    "An archetypal figure immersed in red, volcanic matter. The artist’s note places it in an atemporal narrative connected to Pompeii and Lake Avernus.",
+    "Une figure archétypale plongée dans une matière rouge et volcanique. La note de l’artiste l’inscrit dans un récit intemporel lié à Pompéi et au lac Averne.",
+    "Una figura arquetípica inmersa en materia roja y volcánica. La nota del artista la sitúa en una narración atemporal vinculada a Pompeya y al lago Averno.",
+    "Eine archetypische Figur in roter, vulkanischer Materie. Die Künstlernotiz ordnet sie einer zeitlosen Erzählung zu, die Pompeji und den Averner See verbindet.",
+    "一个原型人物沉浸在红色火山物质中。艺术家说明将其置于与庞贝和阿佛尔诺湖相关的超时间叙事中。"
+  ],
+  "gallery.blue.text": [
+    "A visionary landscape where impossible architecture, organic patterns and an enigmatic figure dissolve into the depths of blue.",
+    "Un paysage visionnaire où architectures impossibles, trames organiques et figure énigmatique se dissolvent dans les profondeurs du bleu.",
+    "Un paisaje visionario donde arquitecturas imposibles, tramas orgánicas y una figura enigmática se disuelven en el azul profundo.",
+    "Eine visionäre Landschaft, in der unmögliche Architektur, organische Muster und eine rätselhafte Figur im Blau verschwinden.",
+    "一幅幻象景观：不可能的建筑、有机纹理与神秘人物消融于深蓝深处。"
+  ],
+  "gallery.article.label": [
+    "NEWS ARTICLE — ISCHIA",
+    "ARTICLE DE PRESSE — ISCHIA",
+    "ARTÍCULO DE PRENSA — ISCHIA",
+    "PRESSEARTIKEL — ISCHIA",
+    "新闻报道 — 伊斯基亚"
+  ],
+  "gallery.article.text": [
+    "An article about an event in Ischia involving lightning, a painting and a bell tower.",
+    "Un article consacré à un événement à Ischia mettant en relation la foudre, un tableau et le clocher.",
+    "Un artículo sobre un suceso en Ischia que relaciona un rayo, un cuadro y el campanario.",
+    "Ein Artikel über ein Ereignis in Ischia, das Blitz, Gemälde und Glockenturm verbindet.",
+    "一篇关于伊斯基亚事件的报道，涉及闪电、画作与钟楼。"
+  ],
+  "gallery.article.link": [
+    "Read the article in Il Dispari Quotidiano ↗",
+    "Lire l’article dans Il Dispari Quotidiano ↗",
+    "Leer el artículo en Il Dispari Quotidiano ↗",
+    "Artikel bei Il Dispari Quotidiano lesen ↗",
+    "阅读 Il Dispari Quotidiano 报道 ↗"
+  ],
+  "gallery.footer": [
+    "Works shown with images supplied by the artist.",
+    "Les œuvres sont présentées avec les images fournies par l’artiste.",
+    "Las obras se muestran con imágenes facilitadas por el artista.",
+    "Die Werke werden mit vom Künstler bereitgestellten Bildern gezeigt.",
+    "作品使用艺术家提供的图像展示。"
+  ],
+  "gallery.dialog": [
+    "Artwork detail",
+    "Détail de l’œuvre",
+    "Detalle de la obra",
+    "Werkdetail",
+    "作品详情"
+  ],
+  "gallery.close": [
+    "Close enlargement",
+    "Fermer l’agrandissement",
+    "Cerrar ampliación",
+    "Vergrößerung schließen",
+    "关闭放大图"
+  ],
+  "gallery.zoom.rosso": [
+    "Enlarge: Rosso 400 a.C. Pompei",
+    "Agrandir : Rosso 400 a.C. Pompei",
+    "Ampliar: Rosso 400 a.C. Pompei",
+    "Vergrößern: Rosso 400 a.C. Pompei",
+    "放大：Rosso 400 a.C. Pompei"
+  ],
+  "gallery.zoom.donna": [
+    "Enlarge: Donna Vesuviana",
+    "Agrandir : Donna Vesuviana",
+    "Ampliar: Donna Vesuviana",
+    "Vergrößern: Donna Vesuviana",
+    "放大：Donna Vesuviana"
+  ],
+  "gallery.zoom.blue": [
+    "Enlarge: Blu Ultrametafisico",
+    "Agrandir : Blu Ultrametafisico",
+    "Ampliar: Blu Ultrametafisico",
+    "Vergrößern: Blu Ultrametafisico",
+    "放大：Blu Ultrametafisico"
+  ],
+  "gallery.meta.title": [
+    "Lord Athanor — Works Gallery",
+    "Lord Athanor — Galerie des œuvres",
+    "Lord Athanor — Galería de obras",
+    "Lord Athanor — Werksgalerie",
+    "Lord Athanor — 作品画廊"
+  ],
+  "gallery.meta.description": [
+    "Paintings by Rolando Lord Attanasio — Athanor.",
+    "Œuvres de Rolando Lord Attanasio — Athanor.",
+    "Obras de Rolando Lord Attanasio — Athanor.",
+    "Gemälde von Rolando Lord Attanasio — Athanor.",
+    "Rolando Lord Attanasio — Athanor 的绘画作品。"
+  ],
+  "gallery.kicker": [
+    "Painting · Timeless and ultrametaphysical art",
+    "Peinture · Art intemporel et ultramétaphysique",
+    "Pintura · Arte atemporal y ultrametafísico",
+    "Malerei · Zeitlose und ultrametaphysische Kunst",
+    "绘画 · 超时间与超形而上艺术"
+  ],
+  "gallery.intro": [
+    "Athanor — Works gallery",
+    "Athanor — Galerie des œuvres",
+    "Athanor — Galería de obras",
+    "Athanor — Werksgalerie",
+    "Athanor — 作品画廊"
+  ],
+  "gallery.zoom": [
+    "Click to enlarge",
+    "Cliquer pour agrandir",
+    "Haz clic para ampliar",
+    "Zum Vergrößern klicken",
+    "点击放大"
+  ],
+  "nav.windward": [
+    "Windward",
+    "Windward",
+    "Windward",
+    "Windward",
+    "Windward"
+  ],
+  "nav.world": [
+    "Athanor World",
+    "Athanor World",
+    "Athanor World",
+    "Athanor World",
+    "Athanor World"
+  ],
+  "nav.shop": [
+    "Art Shop",
+    "Boutique d’art",
+    "Tienda de arte",
+    "Kunstshop",
+    "艺术商店"
+  ],
+  "windward.intro": [
+    "An open course toward forms yet to be imagined. Windward extends Athanor’s inquiry through painting, cinema and inner landscapes, where travel becomes transformation.",
+    "Une route ouverte vers des formes encore à imaginer. Windward prolonge la recherche d’Athanor entre peinture, cinéma et paysages intérieurs, là où le voyage devient transformation.",
+    "Una ruta abierta hacia formas aún por imaginar. Windward prolonga la búsqueda de Athanor entre pintura, cine y paisajes interiores, donde el viaje se transforma.",
+    "Ein offener Kurs zu noch ungeformten Möglichkeiten. Windward führt Athanors Suche durch Malerei, Kino und innere Landschaften fort, wo Reise zur Verwandlung wird.",
+    "Windward 驶向尚待想象的形式，延续 Athanor 在绘画、电影与内在景观中的探索，让旅程成为转化。"
+  ],
+  "windward.enter": [
+    "Enter the Windward universe ↗",
+    "Entrer dans l’univers Windward ↗",
+    "Entrar en el universo Windward ↗",
+    "In das Windward-Universum eintreten ↗",
+    "进入 Windward 宇宙 ↗"
+  ],
+  "windward.title": [
+    "Toward what is coming.",
+    "Vers ce qui vient.",
+    "Hacia lo que viene.",
+    "Dem Kommenden entgegen.",
+    "走向将至之物。"
+  ],
+  "shop.cart.close": [
+    "Close ✕",
+    "Fermer ✕",
+    "Cerrar ✕",
+    "Schließen ✕",
+    "关闭 ✕"
+  ],
+  "shop.cart.title": [
+    "Your cart",
+    "Votre panier",
+    "Tu carrito",
+    "Dein Warenkorb",
+    "你的购物车"
+  ],
+  "shop.cart.empty": [
+    "Your cart is empty.",
+    "Votre panier est vide.",
+    "Tu carrito está vacío.",
+    "Dein Warenkorb ist leer.",
+    "购物车为空。"
+  ],
+  "shop.cart.future": [
+    "Secure payments will be connected after the catalogue is configured.",
+    "Les paiements sécurisés seront intégrés après configuration du catalogue.",
+    "Los pagos seguros se conectarán tras configurar el catálogo.",
+    "Sichere Zahlungen folgen nach Einrichtung des Katalogs.",
+    "目录配置完成后将接入安全支付。"
+  ],
+  "antares.end.text": [
+    "The Lord Attanasio case remains an imaginary device: a mirror for viewing the artist’s identity through the works.",
+    "L’affaire Lord Attanasio reste un dispositif imaginaire : un miroir pour regarder l’identité de l’artiste à travers ses œuvres.",
+    "El caso Lord Attanasio sigue siendo un dispositivo imaginario: un espejo para observar la identidad del artista a través de sus obras.",
+    "Der Fall Lord Attanasio bleibt ein imaginäres Mittel: ein Spiegel, um die Identität des Künstlers durch seine Werke zu betrachten.",
+    "Lord Attanasio 案仍是一个想象装置：透过作品观看艺术家身份的一面镜子。"
+  ],
+  "arts.video.title": [
+    "Video art",
+    "Art vidéo",
+    "Videoarte",
+    "Videokunst",
+    "影像艺术"
+  ]
+}
